@@ -1,211 +1,211 @@
- Raza                           , Altura (cm) , Peso (kg) , Inteligencia (%) , Coste total (€) , Vida promedio (años) , Nº Enfermedades graves , Coste anual promedio (€) , Hogar                 , Trucos , Actividad física del dueño , Distrito                
- Chihuahua ,13.0,2.5,17,19722,16.2,2,1198, Apartamento pequeño , No     , Frecuente                    , Chamartín              
- Chihuahua ,13.5,2.2,15,19630,16.8,1,1192, Jardín Amplio       , Sí     , Nada                        , Puente de Vallecas     
- Chihuahua ,13.2,2.1,16,19650,16.4,2,1195, Apartamento pequeño , No     , Poco frecuente               , Moratalaz             
- Chihuahua ,13.3,2.3,15,19700,16.7,1,1190, Apartamento mediano , No     , Muy frecuente                , Latina                
- Chihuahua ,12.8,2.4,17,19730,16.1,2,1199, Jardín Amplio       , Sí     , Frecuente                    , Usera                 
- Chihuahua ,13.1,2.2,16,19680,16.5,1,1194, Finca               , Sí     , Poco frecuente               , Villa de Vallecas     
- Chihuahua ,13.4,2.6,14,19740,16.0,2,1202, Apartamento pequeño , Sí     , Nada                        , Ciudad Lineal          
- Chihuahua ,12.9,2.3,15,19690,16.6,1,1193, Jardín Amplio       , No     , Nada                        , Retiro                
- Chihuahua ,13.6,2.7,14,19760,15.9,2,1205, Apartamento pequeño , Sí     , Muy frecuente                , Centro                
- Chihuahua ,13.7,2.4,17,19780,15.8,1,1208, Jardín Amplio       , No     , Frecuente                    , Salamanca             
- Springer Spaniel Inglés ,50.0,20.0,86,16389,12.54,4,1306, Jardín Amplio       , Sí     , Nada                        , Chamartín              
- Springer Spaniel Inglés ,49.5,20.5,85,16400,12.53,3,1300, Apartamento mediano , No     , Frecuente                    , Puente de Vallecas     
- Springer Spaniel Inglés ,50.2,19.8,87,16380,12.56,4,1305, Jardín Amplio       , Sí     , Poco frecuente               , Moratalaz             
- Springer Spaniel Inglés ,50.4,20.2,86,16395,12.55,3,1303, Apartamento pequeño , No     , Muy frecuente                , Latina                
- Springer Spaniel Inglés ,50.1,19.7,87,16375,12.57,4,1307, Jardín Amplio       , Sí     , Frecuente                    , Usera                 
- Springer Spaniel Inglés ,50.6,20.8,85,16410,12.52,3,1299, Apartamento mediano , Sí     , Poco frecuente               , Villa de Vallecas     
- Springer Spaniel Inglés ,50.3,20.4,86,16392,12.54,4,1304, Finca               , No     , Nada                        , Ciudad Lineal          
- Springer Spaniel Inglés ,49.8,20.9,85,16368,12.58,3,1308, Jardín Amplio       , No     , Nada                        , Retiro                
- Springer Spaniel Inglés ,50.9,19.5,88,16420,12.51,4,1298, Apartamento pequeño , Sí     , Muy frecuente                , Centro                
- Springer Spaniel Inglés ,50.7,20.6,85,16405,12.53,3,1301, Jardín Amplio       , No     , Frecuente                    , Salamanca             
- Caniche ,41.0,25.0,99,15898,11.95,2,1330, Jardín Amplio       , Sí     , Nada                        , Chamartín              
- Caniche ,40.5,25.5,98,15910,11.94,1,1328, Apartamento mediano , No     , Frecuente                    , Puente de Vallecas     
- Caniche ,41.2,24.8,100,15890,11.97,2,1331, Jardín Amplio       , Sí     , Poco frecuente               , Moratalaz             
- Caniche ,41.4,25.2,99,15905,11.96,1,1329, Apartamento pequeño , No     , Muy frecuente                , Latina                
- Caniche ,41.1,24.7,100,15885,11.98,2,1332, Jardín Amplio       , Sí     , Frecuente                    , Usera                 
- Caniche ,41.6,25.8,98,15920,11.93,1,1327, Apartamento mediano , Sí     , Poco frecuente               , Villa de Vallecas     
- Caniche ,41.3,25.4,99,15902,11.95,2,1333, Finca               , No     , Nada                        , Ciudad Lineal          
- Caniche ,40.8,25.9,98,15878,11.99,1,1334, Jardín Amplio       , No     , Nada                        , Retiro                
- Caniche ,41.9,24.5,101,15930,11.92,2,1326, Apartamento pequeño , Sí     , Muy frecuente                , Centro                
- Caniche ,41.7,25.6,98,15915,11.94,1,1335, Jardín Amplio       , No     , Frecuente                    , Salamanca             
- Braco Alemán de pelo corto  ,61.0,28.0,84,18032,11.46,1,1573, Jardín Amplio       , Sí     , Nada                        , Chamartín              
- Braco Alemán de pelo corto  ,60.5,28.5,83,18045,11.45,2,1569, Apartamento mediano , No     , Frecuente                    , Puente de Vallecas     
- Braco Alemán de pelo corto  ,61.2,27.8,85,18025,11.48,1,1574, Jardín Amplio       , Sí     , Poco frecuente               , Moratalaz             
- Braco Alemán de pelo corto  ,61.4,28.2,84,18040,11.47,2,1572, Apartamento pequeño , No     , Muy frecuente                , Latina                
- Braco Alemán de pelo corto  ,61.1,27.7,85,18020,11.49,1,1575, Jardín Amplio       , Sí     , Frecuente                    , Usera                 
- Braco Alemán de pelo corto  ,61.6,28.8,83,18055,11.44,2,1568, Apartamento mediano , Sí     , Poco frecuente               , Villa de Vallecas     
- Braco Alemán de pelo corto  ,61.3,28.4,84,18032,11.46,1,1573, Finca               , No     , Nada                        , Ciudad Lineal          
- Braco Alemán de pelo corto  ,60.8,28.9,83,18008,11.5,2,1577, Jardín Amplio       , No     , Nada                        , Retiro                
- Braco Alemán de pelo corto  ,61.9,27.5,86,18065,11.43,1,1567, Apartamento pequeño , Sí     , Muy frecuente                , Centro                
- Braco Alemán de pelo corto  ,61.7,28.6,83,18050,11.45,2,1570, Jardín Amplio       , No     , Frecuente                    , Salamanca             
- Labrador Retriever ,58.0,31.0,93,15933,12.04,3,1323, Jardín Amplio       , Sí     , Nada                        , Chamartín              
- Labrador Retriever ,57.5,31.5,92,15945,12.03,4,1319, Apartamento mediano , No     , Frecuente                    , Puente de Vallecas     
- Labrador Retriever ,58.2,30.8,94,15925,12.06,3,1324, Jardín Amplio       , Sí     , Poco frecuente               , Moratalaz             
- Labrador Retriever ,58.4,31.2,93,15940,12.05,4,1322, Apartamento pequeño , No     , Muy frecuente                , Latina                
- Labrador Retriever ,58.1,30.7,94,15920,12.07,3,1325, Jardín Amplio       , Sí     , Frecuente                    , Usera                 
- Labrador Retriever ,58.6,31.8,92,15955,12.02,4,1318, Apartamento mediano , Sí     , Poco frecuente               , Villa de Vallecas     
- Labrador Retriever ,58.3,31.4,93,15932,12.04,3,1323, Finca               , No     , Nada                        , Ciudad Lineal          
- Labrador Retriever ,57.8,31.9,92,15908,12.08,4,1327, Jardín Amplio       , No     , Nada                        , Retiro                
- Labrador Retriever ,58.9,30.5,95,15965,12.01,3,1317, Apartamento pequeño , Sí     , Muy frecuente                , Centro                
- Labrador Retriever ,58.7,31.6,92,15950,12.03,4,1320, Jardín Amplio       , No     , Frecuente                    , Salamanca             
- Bichón Maltés ,23.0,2.0,25,13901,12.25,1,1134, Jardín Amplio       , Sí     , Nada                        , Chamartín              
- Bichón Maltés ,22.5,2.5,26,13910,12.24,2,1130, Apartamento pequeño , No     , Frecuente                    , Puente de Vallecas     
- Bichón Maltés ,23.2,1.8,27,13890,12.27,1,1135, Jardín Amplio       , Sí     , Poco frecuente               , Moratalaz             
- Bichón Maltés ,23.4,2.2,26,13905,12.26,2,1133, Apartamento mediano , No     , Muy frecuente                , Latina                
- Bichón Maltés ,23.1,1.7,27,13885,12.28,1,1136, Jardín Amplio       , Sí     , Frecuente                    , Usera                 
- Bichón Maltés ,23.6,2.8,25,13920,12.23,2,1129, Apartamento mediano , Sí     , Poco frecuente               , Villa de Vallecas     
- Bichón Maltés ,23.3,2.4,26,13897,12.25,1,1134, Finca               , No     , Nada                        , Ciudad Lineal          
- Bichón Maltés ,22.8,2.9,25,13873,12.29,2,1138, Jardín Amplio       , No     , Nada                        , Retiro                
- Bichón Maltés ,23.9,1.5,28,13930,12.22,1,1128, Apartamento pequeño , Sí     , Muy frecuente                , Centro                
- Bichón Maltés ,23.7,2.6,26,13915,12.24,2,1131, Jardín Amplio       , No     , Frecuente                    , Salamanca             
- Pomerania  ,24.0,2.0,77,11829,9.67,1,1223, Apartamento pequeño , Sí     , Nada                        , Chamartín              
- Pomerania  ,23.5,2.5,76,11840,9.66,2,1219, Jardín Amplio       , No     , Frecuente                    , Puente de Vallecas     
- Pomerania  ,24.2,1.8,78,11820,9.69,1,1224, Apartamento pequeño , Sí     , Poco frecuente               , Moratalaz             
- Pomerania  ,24.4,2.2,77,11835,9.68,2,1222, Jardín Amplio       , No     , Muy frecuente                , Latina                
- Pomerania  ,24.1,1.7,78,11815,9.7,1,1225, Apartamento mediano , Sí     , Poco frecuente               , Usera                 
- Pomerania  ,24.6,2.8,76,11850,9.65,2,1218, Jardín Amplio       , Sí     , Nada                        , Villa de Vallecas     
- Pomerania  ,24.3,2.4,77,11827,9.67,1,1223, Finca               , No     , Nada                        , Ciudad Lineal          
- Pomerania  ,23.8,2.9,76,11803,9.71,2,1227, Jardín Amplio       , No     , Muy frecuente                , Retiro                
- Pomerania  ,24.9,1.5,79,11860,9.64,1,1217, Apartamento pequeño , Sí     , Frecuente                    , Centro                
- Pomerania  ,24.7,2.6,76,11845,9.66,2,1220, Jardín Amplio       , No     , Poco frecuente               , Salamanca             
- Golden Retriever ,58.0,27.0,97,16062,12.04,4,1334, Jardín Amplio       , Sí     , Nada                        , Chamartín              
- Golden Retriever ,57.5,27.5,96,16075,12.03,3,1330, Apartamento mediano , No     , Frecuente                    , Puente de Vallecas     
- Golden Retriever ,58.2,26.8,98,16055,12.06,4,1335, Jardín Amplio       , Sí     , Poco frecuente               , Moratalaz             
- Golden Retriever ,58.4,27.2,97,16070,12.05,3,1333, Apartamento pequeño , No     , Muy frecuente                , Latina                
- Golden Retriever ,58.1,26.7,98,16050,12.07,4,1336, Jardín Amplio       , Sí     , Frecuente                    , Usera                 
- Golden Retriever ,58.6,27.8,96,16085,12.02,3,1329, Apartamento mediano , Sí     , Poco frecuente               , Villa de Vallecas     
- Golden Retriever ,58.3,27.4,97,16062,12.04,4,1334, Finca               , No     , Nada                        , Ciudad Lineal          
- Golden Retriever ,57.8,27.9,96,16038,12.08,3,1338, Jardín Amplio       , No     , Nada                        , Retiro                
- Golden Retriever ,58.9,26.5,99,16095,12.01,4,1328, Apartamento pequeño , Sí     , Muy frecuente                , Centro                
- Golden Retriever ,58.7,27.6,96,16080,12.03,3,1331, Jardín Amplio       , No     , Frecuente                    , Salamanca             
- Beagle ,36.0,12.0,9,14510,12.3,1,1179, Jardín Amplio       , No     , Nada                        , Chamartín              
- Beagle ,35.5,12.5,10,14520,12.29,2,1175, Apartamento mediano , Sí     , Frecuente                    , Puente de Vallecas     
- Beagle ,36.2,11.8,8,14500,12.32,1,1180, Jardín Amplio       , No     , Poco frecuente               , Moratalaz             
- Beagle ,36.4,12.2,9,14515,12.31,2,1178, Apartamento pequeño , Sí     , Muy frecuente                , Latina                
- Beagle ,36.1,11.7,10,14495,12.33,1,1181, Jardín Amplio       , No     , Poco frecuente               , Usera                 
- Beagle ,36.6,12.8,8,14530,12.28,2,1174, Apartamento mediano , Sí     , Nada                        , Villa de Vallecas     
- Beagle ,36.3,12.4,9,14507,12.3,1,1179, Finca               , No     , Nada                        , Ciudad Lineal          
- Beagle ,35.8,12.9,8,14483,12.34,2,1183, Jardín Amplio       , Sí     , Muy frecuente                , Retiro                
- Beagle ,36.9,11.5,10,14540,12.27,1,1173, Apartamento pequeño , No     , Frecuente                    , Centro                
- Beagle ,36.7,12.6,8,14525,12.29,2,1176, Jardín Amplio       , Sí     , Poco frecuente               , Salamanca             
- Setter Inglés ,62.0,43.0,56,15177,11.57,2,1311, Jardín Amplio       , No     , Nada                        , Chamartín              
- Setter Inglés ,61.5,43.5,55,15188,11.56,3,1307, Apartamento mediano , Sí     , Frecuente                    , Puente de Vallecas     
- Setter Inglés ,62.2,42.8,57,15168,11.59,2,1312, Jardín Amplio       , No     , Poco frecuente               , Moratalaz             
- Setter Inglés ,62.4,43.2,56,15183,11.58,3,1310, Apartamento pequeño , Sí     , Muy frecuente                , Latina                
- Setter Inglés ,62.1,42.7,57,15163,11.6,2,1313, Jardín Amplio       , No     , Nada                        , Usera                 
- Setter Inglés ,62.6,43.8,55,15198,11.55,3,1306, Apartamento mediano , Sí     , Poco frecuente               , Villa de Vallecas     
- Setter Inglés ,62.3,43.4,56,15175,11.57,2,1311, Finca               , No     , Nada                        , Ciudad Lineal          
- Setter Inglés ,61.8,43.9,55,15150,11.61,3,1315, Jardín Amplio       , Sí     , Muy frecuente                , Retiro                
- Setter Inglés ,62.9,42.5,58,15205,11.54,2,1305, Apartamento pequeño , No     , Frecuente                    , Centro                
- Setter Inglés ,62.7,43.6,55,15190,11.56,3,1308, Jardín Amplio       , Sí     , Poco frecuente               , Salamanca             
- Doberman Pinscher ,66.0,34.0,95,13776,10.33,4,1333, Jardín Amplio       , Sí     , Nada                        , Chamartín              
- Doberman Pinscher ,65.5,34.5,94,13788,10.32,5,1329, Apartamento mediano , No     , Frecuente                    , Puente de Vallecas     
- Doberman Pinscher ,66.2,33.8,96,13768,10.35,4,1334, Jardín Amplio       , Sí     , Poco frecuente               , Moratalaz             
- Doberman Pinscher ,66.4,34.2,95,13783,10.34,5,1332, Apartamento pequeño , No     , Muy frecuente                , Latina                
- Doberman Pinscher ,66.1,33.7,96,13763,10.36,4,1335, Jardín Amplio       , Sí     , Nada                        , Usera                 
- Doberman Pinscher ,66.6,34.8,94,13798,10.31,5,1328, Apartamento mediano , Sí     , Poco frecuente               , Villa de Vallecas     
- Doberman Pinscher ,66.3,34.4,95,13775,10.33,4,1333, Finca               , No     , Nada                        , Ciudad Lineal          
- Doberman Pinscher ,65.8,34.9,94,13750,10.37,5,1337, Jardín Amplio       , No     , Muy frecuente                , Retiro                
- Doberman Pinscher ,66.9,33.5,97,13805,10.3,4,1327, Apartamento pequeño , Sí     , Frecuente                    , Centro                
- Doberman Pinscher ,66.7,34.6,94,13790,10.32,5,1330, Jardín Amplio       , Sí     , Poco frecuente               , Salamanca             
- Cavalier King Charles Spaniel ,32.0,7.0,48,13984,11.29,2,1238, Apartamento pequeño , Sí     , Nada                        , Chamartín              
- Cavalier King Charles Spaniel ,31.5,7.5,47,13995,11.28,3,1234, Jardín Amplio       , No     , Frecuente                    , Puente de Vallecas     
- Cavalier King Charles Spaniel ,32.2,6.8,49,13975,11.31,2,1239, Apartamento pequeño , Sí     , Poco frecuente               , Moratalaz             
- Cavalier King Charles Spaniel ,32.4,7.2,48,13990,11.3,3,1237, Jardín Amplio       , No     , Muy frecuente                , Latina                
- Cavalier King Charles Spaniel ,32.1,6.7,49,13970,11.32,2,1240, Apartamento mediano , Sí     , Poco frecuente               , Usera                 
- Cavalier King Charles Spaniel ,32.6,7.8,47,14005,11.27,3,1233, Jardín Amplio       , Sí     , Nada                        , Villa de Vallecas     
- Cavalier King Charles Spaniel ,32.3,7.4,48,13982,11.29,2,1238, Finca               , No     , Nada                        , Ciudad Lineal          
- Cavalier King Charles Spaniel ,31.8,7.9,47,13957,11.33,3,1242, Jardín Amplio       , Sí     , Muy frecuente                , Retiro                
- Cavalier King Charles Spaniel ,32.9,6.5,50,14012,11.26,2,1232, Apartamento pequeño , No     , Frecuente                    , Centro                
- Cavalier King Charles Spaniel ,32.7,7.6,47,13997,11.28,3,1235, Jardín Amplio       , Sí     , Poco frecuente               , Salamanca             
- Rottweiler ,62.0,45.0,91,14180,9.11,3,1556, Jardín Amplio       , Sí     , Nada                        , Chamartín              
- Rottweiler ,61.5,45.5,90,14192,9.1,4,1552, Apartamento mediano , No     , Frecuente                    , Puente de Vallecas     
- Rottweiler ,62.2,44.8,92,14172,9.13,3,1557, Jardín Amplio       , Sí     , Poco frecuente               , Moratalaz             
- Rottweiler ,62.4,45.2,91,14187,9.12,4,1555, Apartamento pequeño , No     , Muy frecuente                , Latina                
- Rottweiler ,62.1,44.7,92,14167,9.14,3,1558, Jardín Amplio       , Sí     , Nada                        , Usera                 
- Rottweiler ,62.6,45.8,90,14202,9.09,4,1551, Apartamento mediano , Sí     , Poco frecuente               , Villa de Vallecas     
- Rottweiler ,62.3,45.4,91,14179,9.11,3,1556, Finca               , No     , Nada                        , Ciudad Lineal          
- Rottweiler ,61.8,45.9,90,14154,9.15,4,1560, Jardín Amplio       , Sí     , Muy frecuente                , Retiro                
- Rottweiler ,62.9,44.5,93,14209,9.08,3,1550, Apartamento pequeño , No     , Frecuente                    , Centro                
- Rottweiler ,62.7,45.6,90,14194,9.1,4,1553, Jardín Amplio       , Sí     , Poco frecuente               , Salamanca             
- Pastor Alemán ,61.0,31.0,98,13052,9.73,8,1341, Jardín Amplio       , Sí     , Nada                        , Chamartín              
- Pastor Alemán ,60.5,31.5,97,13063,9.72,9,1337, Apartamento mediano , No     , Frecuente                    , Puente de Vallecas     
- Pastor Alemán ,61.2,30.8,99,13043,9.75,8,1342, Jardín Amplio       , Sí     , Poco frecuente               , Moratalaz             
- Pastor Alemán ,61.4,31.2,98,13058,9.74,9,1340, Apartamento pequeño , No     , Muy frecuente                , Latina                
- Pastor Alemán ,61.1,30.7,99,13038,9.76,8,1343, Jardín Amplio       , Sí     , Nada                        , Usera                 
- Pastor Alemán ,61.6,31.8,97,13073,9.71,9,1336, Apartamento mediano , Sí     , Poco frecuente               , Villa de Vallecas     
- Pastor Alemán ,61.3,31.4,98,13050,9.73,8,1341, Finca               , No     , Nada                        , Ciudad Lineal          
- Pastor Alemán ,60.8,31.9,97,13025,9.77,9,1345, Jardín Amplio       , Sí     , Muy frecuente                , Retiro                
- Pastor Alemán ,61.9,30.5,100,13080,9.7,8,1335, Apartamento pequeño , No     , Frecuente                    , Centro                
- Pastor Alemán ,61.7,31.6,97,13065,9.72,9,1338, Jardín Amplio       , Sí     , Poco frecuente               , Salamanca             
- Bulldog Francés ,30.0,12.0,28,13073,9.0,0,1452, Apartamento pequeño , No     , Nada                        , Chamartín              
- Bulldog Francés ,29.5,12.5,29,13084,8.99,1,1448, Jardín Amplio       , Sí     , Frecuente                    , Puente de Vallecas     
- Bulldog Francés ,30.2,11.8,30,13064,9.02,0,1453, Apartamento pequeño , No     , Poco frecuente               , Moratalaz             
- Bulldog Francés ,30.4,12.2,28,13079,9.01,1,1451, Jardín Amplio       , Sí     , Muy frecuente                , Latina                
- Bulldog Francés ,30.1,11.7,30,13059,9.03,0,1454, Apartamento mediano , No     , Nada                        , Usera                 
- Bulldog Francés ,30.6,12.8,29,13094,8.98,1,1447, Jardín Amplio       , Sí     , Poco frecuente               , Villa de Vallecas     
- Bulldog Francés ,30.3,12.4,28,13071,9.0,0,1452, Finca               , No     , Nada                        , Ciudad Lineal          
- Bulldog Francés ,29.8,12.9,29,13046,9.04,1,1456, Jardín Amplio       , Sí     , Muy frecuente                , Retiro                
- Bulldog Francés ,30.9,11.5,30,13099,8.97,0,1446, Apartamento pequeño , No     , Frecuente                    , Centro                
- Bulldog Francés ,30.7,12.6,29,13084,8.99,1,1449, Jardín Amplio       , Sí     , Poco frecuente               , Salamanca             
- Gran Danés ,76.0,54.0,39,11035,6.96,4,1585, Jardín Amplio   , No     , Nada                        , Chamartín              
- Gran Danés ,75.5,54.5,38,11046,6.95,5,1581, Apartamento mediano , Sí     , Frecuente                    , Puente de Vallecas     
- Gran Danés ,76.2,53.8,40,11026,6.98,4,1586, Jardín Amplio   , No     , Poco frecuente               , Moratalaz             
- Gran Danés ,76.4,54.2,39,11041,6.97,5,1584, Apartamento pequeño , Sí     , Muy frecuente                , Latina                
- Gran Danés ,76.1,53.7,40,11021,6.99,4,1587, Jardín Amplio   , No     , Nada                        , Usera                 
- Gran Danés ,76.6,54.8,38,11056,6.94,5,1580, Apartamento mediano , Sí     , Poco frecuente               , Villa de Vallecas     
- Gran Danés ,76.3,54.4,39,11033,6.96,4,1585, Finca           , No     , Nada                        , Ciudad Lineal          
- Gran Danés ,75.8,54.9,38,11008,7.0,5,1589, Jardín Amplio   , Sí     , Muy frecuente                , Retiro                
- Gran Danés ,76.9,53.5,41,11063,6.93,4,1579, Apartamento pequeño , No     , Frecuente                    , Centro                
- Gran Danés ,76.7,54.6,38,11048,6.95,5,1582, Jardín Amplio   , Sí     , Poco frecuente               , Salamanca             
- Bulldog ,36.0,20.0,3,10358,6.29,5,1646, Jardín Amplio   , Sí     , Nada                        , Chamartín              
- Bulldog ,35.5,20.5,4,10369,6.28,6,1642, Apartamento mediano , No     , Frecuente                    , Puente de Vallecas     
- Bulldog ,36.2,19.8,5,10349,6.31,5,1647, Jardín Amplio   , Sí     , Poco frecuente               , Moratalaz             
- Bulldog ,36.4,20.2,3,10364,6.3,6,1645, Apartamento pequeño , No     , Muy frecuente                , Latina                
- Bulldog ,36.1,19.7,5,10344,6.32,5,1648, Jardín Amplio   , Sí     , Nada                        , Usera                 
- Bulldog ,36.6,20.8,4,10379,6.27,6,1641, Apartamento mediano , No     , Poco frecuente               , Villa de Vallecas     
- Bulldog ,36.3,20.4,3,10356,6.29,5,1646, Finca           , Sí     , Nada                        , Ciudad Lineal          
- Bulldog ,35.8,20.9,4,10331,6.33,6,1650, Jardín Amplio   , No     , Muy frecuente                , Retiro                
- Bulldog ,36.9,19.5,6,10386,6.26,5,1640, Apartamento pequeño , Sí     , Frecuente                    , Centro                
- Bulldog ,36.7,20.6,3,10371,6.28,6,1643, Jardín Amplio   , No     , Poco frecuente               , Salamanca             
- Border Collie ,51.0,17.0,100,16186,12.52,2,1293, Jardín Amplio       , Sí     , Nada                        , Chamartín              
- Border Collie ,50.5,17.5,99,16197,12.51,3,1289, Apartamento mediano , No     , Frecuente                    , Puente de Vallecas     
- Border Collie ,51.2,16.8,100,16177,12.54,2,1294, Jardín Amplio       , Sí     , Poco frecuente               , Moratalaz             
- Border Collie ,51.4,17.2,99,16192,12.53,3,1292, Apartamento pequeño , No     , Muy frecuente                , Latina                
- Border Collie ,51.1,16.7,100,16172,12.55,2,1295, Jardín Amplio       , Sí     , Nada                        , Usera                 
- Border Collie ,51.6,17.8,99,16207,12.5,3,1288, Apartamento mediano , No     , Poco frecuente               , Villa de Vallecas     
- Border Collie ,51.3,17.4,100,16184,12.52,2,1293, Finca               , Sí     , Nada                        , Ciudad Lineal          
- Border Collie ,50.8,17.9,99,16159,12.56,3,1297, Jardín Amplio       , No     , Muy frecuente                , Retiro                
- Border Collie ,51.9,16.5,100,16214,12.49,2,1287, Apartamento pequeño , Sí     , Frecuente                    , Centro                
- Border Collie ,51.7,17.6,99,16199,12.51,3,1290, Jardín Amplio       , No     , Poco frecuente               , Salamanca             
- Husky Siberiano ,55.0,22.0,45,16470,12.58,0,1309, Jardín Amplio       , No     , Frecuente                    , Chamartín              
- Husky Siberiano ,54.5,22.5,44,16481,12.57,1,1305, Apartamento mediano , Sí     , Poco frecuente               , Puente de Vallecas     
- Husky Siberiano ,55.2,21.8,46,16461,12.6,0,1310, Jardín Amplio       , No     , Nada                        , Moratalaz             
- Husky Siberiano ,55.4,22.2,45,16476,12.59,1,1308, Apartamento pequeño , Sí     , Muy frecuente                , Latina                
- Husky Siberiano ,55.1,21.7,46,16456,12.61,0,1311, Jardín Amplio       , No     , Frecuente                    , Usera                 
- Husky Siberiano ,55.6,22.8,44,16491,12.56,1,1304, Apartamento mediano , Sí     , Poco frecuente               , Villa de Vallecas     
- Husky Siberiano ,55.3,22.4,45,16468,12.58,0,1309, Finca               , No     , Nada                        , Ciudad Lineal          
- Husky Siberiano ,54.8,22.9,44,16443,12.62,1,1313, Jardín Amplio       , Sí     , Muy frecuente                , Retiro                
- Husky Siberiano ,55.9,21.5,47,16498,12.55,0,1303, Apartamento pequeño , No     , Frecuente                    , Centro                
- Husky Siberiano ,55.7,22.6,44,16483,12.57,1,1306, Jardín Amplio       , Sí     , Poco frecuente               , Salamanca             
- Dachshund ,24.0,11.0,37,15006,12.63,2,1188, Jardín Amplio       , Sí     , Nada                        , Chamartín              
- Dachshund ,23.5,11.5,36,15017,12.62,3,1184, Apartamento mediano , No     , Frecuente                    , Puente de Vallecas     
- Dachshund ,24.2,10.8,38,14997,12.65,2,1189, Jardín Amplio       , Sí     , Poco frecuente               , Moratalaz             
- Dachshund ,24.4,11.2,37,15012,12.64,3,1187, Apartamento pequeño , No     , Muy frecuente                , Latina                
- Dachshund ,24.1,10.7,38,14992,12.66,2,1190, Jardín Amplio       , Sí     , Nada                        , Usera                 
- Dachshund ,24.6,11.8,36,15027,12.61,3,1183, Apartamento mediano , No     , Poco frecuente               , Villa de Vallecas     
- Dachshund ,24.3,11.4,37,15004,12.63,2,1188, Finca               , Sí     , Nada                        , Ciudad Lineal          
- Dachshund ,23.8,11.9,36,14979,12.67,3,1192, Jardín Amplio       , No     , Muy frecuente                , Retiro                
- Dachshund ,24.9,10.5,39,15034,12.6,2,1182, Apartamento pequeño , Sí     , Frecuente                    , Centro                
- Dachshund ,24.7,11.6,36,15019,12.62,3,1185, Jardín Amplio       , No     , Poco frecuente               , Salamanca             
- Schnauzer Miniatura ,33.0,7.0,87,14489,11.81,2,1226, Apartamento mediano , Sí     , Muy frecuente                , Chamartín              
- Schnauzer Miniatura ,32.5,7.5,88,14500,11.8,3,1222, Jardín Amplio       , No     , Poco frecuente               , Puente de Vallecas     
- Schnauzer Miniatura ,33.2,6.8,86,14480,11.83,2,1227, Apartamento pequeño , Sí     , Nada                        , Moratalaz             
- Schnauzer Miniatura ,33.4,7.2,87,14495,11.82,3,1225, Jardín Amplio       , No     , Frecuente                    , Latina                
- Schnauzer Miniatura ,33.1,6.7,88,14470,11.84,2,1228, Apartamento mediano , Sí     , Poco frecuente               , Usera                 
- Schnauzer Miniatura ,33.6,7.8,86,14505,11.79,3,1221, Jardín Amplio       , No     , Nada                        , Villa de Vallecas     
- Schnauzer Miniatura ,33.3,7.4,87,14482,11.81,2,1226, Finca               , Sí     , Muy frecuente                , Ciudad Lineal          
- Schnauzer Miniatura ,32.8,7.9,86,14457,11.85,3,1230, Apartamento pequeño , No     , Frecuente                    , Retiro                
- Schnauzer Miniatura ,33.9,6.5,88,14512,11.78,2,1220, Jardín Amplio       , Sí     , Poco frecuente               , Centro                
- Schnauzer Miniatura ,33.7,7.6,86,14497,11.8,3,1223, Apartamento mediano , No     , Nada                        , Salamanca             
+,Raza,Altura (cm),Peso (kg),Inteligencia (%),Coste total (€),Vida promedio (años),Nº Enfermedades graves,Coste anual promedio (€),Hogar,Trucos,Actividad física del dueño,Distrito
+0,Chihuahua,13.0,2.5,17,19722,16.2,2,1198,Apartamento pequeño,No,Frecuente,Chamartín
+1,Chihuahua,13.5,2.2,15,19630,16.8,1,1192,Jardín Amplio,Sí,Nada,Puente de Vallecas
+2,Chihuahua,13.2,2.1,16,19650,16.4,2,1195,Apartamento pequeño,No,Poco frecuente,Moratalaz
+3,Chihuahua,13.3,2.3,15,19700,16.7,1,1190,Apartamento mediano,No,Muy frecuente,Latina
+4,Chihuahua,12.8,2.4,17,19730,16.1,2,1199,Jardín Amplio,Sí,Frecuente,Usera
+5,Chihuahua,13.1,2.2,16,19680,16.5,1,1194,Finca,Sí,Poco frecuente,Villa de Vallecas
+6,Chihuahua,13.4,2.6,14,19740,16.0,2,1202,Apartamento pequeño,Sí,Nada,Ciudad Lineal
+7,Chihuahua,12.9,2.3,15,19690,16.6,1,1193,Jardín Amplio,No,Nada,Retiro
+8,Chihuahua,13.6,2.7,14,19760,15.9,2,1205,Apartamento pequeño,Sí,Muy frecuente,Centro
+9,Chihuahua,13.7,2.4,17,19780,15.8,1,1208,Jardín Amplio,No,Frecuente,Salamanca
+10,Springer Spaniel Inglés,50.0,20.0,86,16389,12.54,4,1306,Jardín Amplio,Sí,Nada,Chamartín
+11,Springer Spaniel Inglés,49.5,20.5,85,16400,12.53,3,1300,Apartamento mediano,No,Frecuente,Puente de Vallecas
+12,Springer Spaniel Inglés,50.2,19.8,87,16380,12.56,4,1305,Jardín Amplio,Sí,Poco frecuente,Moratalaz
+13,Springer Spaniel Inglés,50.4,20.2,86,16395,12.55,3,1303,Apartamento pequeño,No,Muy frecuente,Latina
+14,Springer Spaniel Inglés,50.1,19.7,87,16375,12.57,4,1307,Jardín Amplio,Sí,Frecuente,Usera
+15,Springer Spaniel Inglés,50.6,20.8,85,16410,12.52,3,1299,Apartamento mediano,Sí,Poco frecuente,Villa de Vallecas
+16,Springer Spaniel Inglés,50.3,20.4,86,16392,12.54,4,1304,Finca,No,Nada,Ciudad Lineal
+17,Springer Spaniel Inglés,49.8,20.9,85,16368,12.58,3,1308,Jardín Amplio,No,Nada,Retiro
+18,Springer Spaniel Inglés,50.9,19.5,88,16420,12.51,4,1298,Apartamento pequeño,Sí,Muy frecuente,Centro
+19,Springer Spaniel Inglés,50.7,20.6,85,16405,12.53,3,1301,Jardín Amplio,No,Frecuente,Salamanca
+20,Caniche,41.0,25.0,99,15898,11.95,2,1330,Jardín Amplio,Sí,Nada,Chamartín
+21,Caniche,40.5,25.5,98,15910,11.94,1,1328,Apartamento mediano,No,Frecuente,Puente de Vallecas
+22,Caniche,41.2,24.8,100,15890,11.97,2,1331,Jardín Amplio,Sí,Poco frecuente,Moratalaz
+23,Caniche,41.4,25.2,99,15905,11.96,1,1329,Apartamento pequeño,No,Muy frecuente,Latina
+24,Caniche,41.1,24.7,100,15885,11.98,2,1332,Jardín Amplio,Sí,Frecuente,Usera
+25,Caniche,41.6,25.8,98,15920,11.93,1,1327,Apartamento mediano,Sí,Poco frecuente,Villa de Vallecas
+26,Caniche,41.3,25.4,99,15902,11.95,2,1333,Finca,No,Nada,Ciudad Lineal
+27,Caniche,40.8,25.9,98,15878,11.99,1,1334,Jardín Amplio,No,Nada,Retiro
+28,Caniche,41.9,24.5,101,15930,11.92,2,1326,Apartamento pequeño,Sí,Muy frecuente,Centro
+29,Caniche,41.7,25.6,98,15915,11.94,1,1335,Jardín Amplio,No,Frecuente,Salamanca
+30,Braco Alemán de pelo corto,61.0,28.0,84,18032,11.46,1,1573,Jardín Amplio,Sí,Nada,Chamartín
+31,Braco Alemán de pelo corto,60.5,28.5,83,18045,11.45,2,1569,Apartamento mediano,No,Frecuente,Puente de Vallecas
+32,Braco Alemán de pelo corto,61.2,27.8,85,18025,11.48,1,1574,Jardín Amplio,Sí,Poco frecuente,Moratalaz
+33,Braco Alemán de pelo corto,61.4,28.2,84,18040,11.47,2,1572,Apartamento pequeño,No,Muy frecuente,Latina
+34,Braco Alemán de pelo corto,61.1,27.7,85,18020,11.49,1,1575,Jardín Amplio,Sí,Frecuente,Usera
+35,Braco Alemán de pelo corto,61.6,28.8,83,18055,11.44,2,1568,Apartamento mediano,Sí,Poco frecuente,Villa de Vallecas
+36,Braco Alemán de pelo corto,61.3,28.4,84,18032,11.46,1,1573,Finca,No,Nada,Ciudad Lineal
+37,Braco Alemán de pelo corto,60.8,28.9,83,18008,11.5,2,1577,Jardín Amplio,No,Nada,Retiro
+38,Braco Alemán de pelo corto,61.9,27.5,86,18065,11.43,1,1567,Apartamento pequeño,Sí,Muy frecuente,Centro
+39,Braco Alemán de pelo corto,61.7,28.6,83,18050,11.45,2,1570,Jardín Amplio,No,Frecuente,Salamanca
+40,Labrador Retriever,58.0,31.0,93,15933,12.04,3,1323,Jardín Amplio,Sí,Nada,Chamartín
+41,Labrador Retriever,57.5,31.5,92,15945,12.03,4,1319,Apartamento mediano,No,Frecuente,Puente de Vallecas
+42,Labrador Retriever,58.2,30.8,94,15925,12.06,3,1324,Jardín Amplio,Sí,Poco frecuente,Moratalaz
+43,Labrador Retriever,58.4,31.2,93,15940,12.05,4,1322,Apartamento pequeño,No,Muy frecuente,Latina
+44,Labrador Retriever,58.1,30.7,94,15920,12.07,3,1325,Jardín Amplio,Sí,Frecuente,Usera
+45,Labrador Retriever,58.6,31.8,92,15955,12.02,4,1318,Apartamento mediano,Sí,Poco frecuente,Villa de Vallecas
+46,Labrador Retriever,58.3,31.4,93,15932,12.04,3,1323,Finca,No,Nada,Ciudad Lineal
+47,Labrador Retriever,57.8,31.9,92,15908,12.08,4,1327,Jardín Amplio,No,Nada,Retiro
+48,Labrador Retriever,58.9,30.5,95,15965,12.01,3,1317,Apartamento pequeño,Sí,Muy frecuente,Centro
+49,Labrador Retriever,58.7,31.6,92,15950,12.03,4,1320,Jardín Amplio,No,Frecuente,Salamanca
+50,Bichón Maltés,23.0,2.0,25,13901,12.25,1,1134,Jardín Amplio,Sí,Nada,Chamartín
+51,Bichón Maltés,22.5,2.5,26,13910,12.24,2,1130,Apartamento pequeño,No,Frecuente,Puente de Vallecas
+52,Bichón Maltés,23.2,1.8,27,13890,12.27,1,1135,Jardín Amplio,Sí,Poco frecuente,Moratalaz
+53,Bichón Maltés,23.4,2.2,26,13905,12.26,2,1133,Apartamento mediano,No,Muy frecuente,Latina
+54,Bichón Maltés,23.1,1.7,27,13885,12.28,1,1136,Jardín Amplio,Sí,Frecuente,Usera
+55,Bichón Maltés,23.6,2.8,25,13920,12.23,2,1129,Apartamento mediano,Sí,Poco frecuente,Villa de Vallecas
+56,Bichón Maltés,23.3,2.4,26,13897,12.25,1,1134,Finca,No,Nada,Ciudad Lineal
+57,Bichón Maltés,22.8,2.9,25,13873,12.29,2,1138,Jardín Amplio,No,Nada,Retiro
+58,Bichón Maltés,23.9,1.5,28,13930,12.22,1,1128,Apartamento pequeño,Sí,Muy frecuente,Centro
+59,Bichón Maltés,23.7,2.6,26,13915,12.24,2,1131,Jardín Amplio,No,Frecuente,Salamanca
+60,Pomerania,24.0,2.0,77,11829,9.67,1,1223,Apartamento pequeño,Sí,Nada,Chamartín
+61,Pomerania,23.5,2.5,76,11840,9.66,2,1219,Jardín Amplio,No,Frecuente,Puente de Vallecas
+62,Pomerania,24.2,1.8,78,11820,9.69,1,1224,Apartamento pequeño,Sí,Poco frecuente,Moratalaz
+63,Pomerania,24.4,2.2,77,11835,9.68,2,1222,Jardín Amplio,No,Muy frecuente,Latina
+64,Pomerania,24.1,1.7,78,11815,9.7,1,1225,Apartamento mediano,Sí,Poco frecuente,Usera
+65,Pomerania,24.6,2.8,76,11850,9.65,2,1218,Jardín Amplio,Sí,Nada,Villa de Vallecas
+66,Pomerania,24.3,2.4,77,11827,9.67,1,1223,Finca,No,Nada,Ciudad Lineal
+67,Pomerania,23.8,2.9,76,11803,9.71,2,1227,Jardín Amplio,No,Muy frecuente,Retiro
+68,Pomerania,24.9,1.5,79,11860,9.64,1,1217,Apartamento pequeño,Sí,Frecuente,Centro
+69,Pomerania,24.7,2.6,76,11845,9.66,2,1220,Jardín Amplio,No,Poco frecuente,Salamanca
+70,Golden Retriever,58.0,27.0,97,16062,12.04,4,1334,Jardín Amplio,Sí,Nada,Chamartín
+71,Golden Retriever,57.5,27.5,96,16075,12.03,3,1330,Apartamento mediano,No,Frecuente,Puente de Vallecas
+72,Golden Retriever,58.2,26.8,98,16055,12.06,4,1335,Jardín Amplio,Sí,Poco frecuente,Moratalaz
+73,Golden Retriever,58.4,27.2,97,16070,12.05,3,1333,Apartamento pequeño,No,Muy frecuente,Latina
+74,Golden Retriever,58.1,26.7,98,16050,12.07,4,1336,Jardín Amplio,Sí,Frecuente,Usera
+75,Golden Retriever,58.6,27.8,96,16085,12.02,3,1329,Apartamento mediano,Sí,Poco frecuente,Villa de Vallecas
+76,Golden Retriever,58.3,27.4,97,16062,12.04,4,1334,Finca,No,Nada,Ciudad Lineal
+77,Golden Retriever,57.8,27.9,96,16038,12.08,3,1338,Jardín Amplio,No,Nada,Retiro
+78,Golden Retriever,58.9,26.5,99,16095,12.01,4,1328,Apartamento pequeño,Sí,Muy frecuente,Centro
+79,Golden Retriever,58.7,27.6,96,16080,12.03,3,1331,Jardín Amplio,No,Frecuente,Salamanca
+80,Beagle,36.0,12.0,9,14510,12.3,1,1179,Jardín Amplio,No,Nada,Chamartín
+81,Beagle,35.5,12.5,10,14520,12.29,2,1175,Apartamento mediano,Sí,Frecuente,Puente de Vallecas
+82,Beagle,36.2,11.8,8,14500,12.32,1,1180,Jardín Amplio,No,Poco frecuente,Moratalaz
+83,Beagle,36.4,12.2,9,14515,12.31,2,1178,Apartamento pequeño,Sí,Muy frecuente,Latina
+84,Beagle,36.1,11.7,10,14495,12.33,1,1181,Jardín Amplio,No,Poco frecuente,Usera
+85,Beagle,36.6,12.8,8,14530,12.28,2,1174,Apartamento mediano,Sí,Nada,Villa de Vallecas
+86,Beagle,36.3,12.4,9,14507,12.3,1,1179,Finca,No,Nada,Ciudad Lineal
+87,Beagle,35.8,12.9,8,14483,12.34,2,1183,Jardín Amplio,Sí,Muy frecuente,Retiro
+88,Beagle,36.9,11.5,10,14540,12.27,1,1173,Apartamento pequeño,No,Frecuente,Centro
+89,Beagle,36.7,12.6,8,14525,12.29,2,1176,Jardín Amplio,Sí,Poco frecuente,Salamanca
+90,Setter Inglés,62.0,43.0,56,15177,11.57,2,1311,Jardín Amplio,No,Nada,Chamartín
+91,Setter Inglés,61.5,43.5,55,15188,11.56,3,1307,Apartamento mediano,Sí,Frecuente,Puente de Vallecas
+92,Setter Inglés,62.2,42.8,57,15168,11.59,2,1312,Jardín Amplio,No,Poco frecuente,Moratalaz
+93,Setter Inglés,62.4,43.2,56,15183,11.58,3,1310,Apartamento pequeño,Sí,Muy frecuente,Latina
+94,Setter Inglés,62.1,42.7,57,15163,11.6,2,1313,Jardín Amplio,No,Nada,Usera
+95,Setter Inglés,62.6,43.8,55,15198,11.55,3,1306,Apartamento mediano,Sí,Poco frecuente,Villa de Vallecas
+96,Setter Inglés,62.3,43.4,56,15175,11.57,2,1311,Finca,No,Nada,Ciudad Lineal
+97,Setter Inglés,61.8,43.9,55,15150,11.61,3,1315,Jardín Amplio,Sí,Muy frecuente,Retiro
+98,Setter Inglés,62.9,42.5,58,15205,11.54,2,1305,Apartamento pequeño,No,Frecuente,Centro
+99,Setter Inglés,62.7,43.6,55,15190,11.56,3,1308,Jardín Amplio,Sí,Poco frecuente,Salamanca
+100,Doberman Pinscher,66.0,34.0,95,13776,10.33,4,1333,Jardín Amplio,Sí,Nada,Chamartín
+101,Doberman Pinscher,65.5,34.5,94,13788,10.32,5,1329,Apartamento mediano,No,Frecuente,Puente de Vallecas
+102,Doberman Pinscher,66.2,33.8,96,13768,10.35,4,1334,Jardín Amplio,Sí,Poco frecuente,Moratalaz
+103,Doberman Pinscher,66.4,34.2,95,13783,10.34,5,1332,Apartamento pequeño,No,Muy frecuente,Latina
+104,Doberman Pinscher,66.1,33.7,96,13763,10.36,4,1335,Jardín Amplio,Sí,Nada,Usera
+105,Doberman Pinscher,66.6,34.8,94,13798,10.31,5,1328,Apartamento mediano,Sí,Poco frecuente,Villa de Vallecas
+106,Doberman Pinscher,66.3,34.4,95,13775,10.33,4,1333,Finca,No,Nada,Ciudad Lineal
+107,Doberman Pinscher,65.8,34.9,94,13750,10.37,5,1337,Jardín Amplio,No,Muy frecuente,Retiro
+108,Doberman Pinscher,66.9,33.5,97,13805,10.3,4,1327,Apartamento pequeño,Sí,Frecuente,Centro
+109,Doberman Pinscher,66.7,34.6,94,13790,10.32,5,1330,Jardín Amplio,Sí,Poco frecuente,Salamanca
+110,Cavalier King Charles Spaniel,32.0,7.0,48,13984,11.29,2,1238,Apartamento pequeño,Sí,Nada,Chamartín
+111,Cavalier King Charles Spaniel,31.5,7.5,47,13995,11.28,3,1234,Jardín Amplio,No,Frecuente,Puente de Vallecas
+112,Cavalier King Charles Spaniel,32.2,6.8,49,13975,11.31,2,1239,Apartamento pequeño,Sí,Poco frecuente,Moratalaz
+113,Cavalier King Charles Spaniel,32.4,7.2,48,13990,11.3,3,1237,Jardín Amplio,No,Muy frecuente,Latina
+114,Cavalier King Charles Spaniel,32.1,6.7,49,13970,11.32,2,1240,Apartamento mediano,Sí,Poco frecuente,Usera
+115,Cavalier King Charles Spaniel,32.6,7.8,47,14005,11.27,3,1233,Jardín Amplio,Sí,Nada,Villa de Vallecas
+116,Cavalier King Charles Spaniel,32.3,7.4,48,13982,11.29,2,1238,Finca,No,Nada,Ciudad Lineal
+117,Cavalier King Charles Spaniel,31.8,7.9,47,13957,11.33,3,1242,Jardín Amplio,Sí,Muy frecuente,Retiro
+118,Cavalier King Charles Spaniel,32.9,6.5,50,14012,11.26,2,1232,Apartamento pequeño,No,Frecuente,Centro
+119,Cavalier King Charles Spaniel,32.7,7.6,47,13997,11.28,3,1235,Jardín Amplio,Sí,Poco frecuente,Salamanca
+120,Rottweiler,62.0,45.0,91,14180,9.11,3,1556,Jardín Amplio,Sí,Nada,Chamartín
+121,Rottweiler,61.5,45.5,90,14192,9.1,4,1552,Apartamento mediano,No,Frecuente,Puente de Vallecas
+122,Rottweiler,62.2,44.8,92,14172,9.13,3,1557,Jardín Amplio,Sí,Poco frecuente,Moratalaz
+123,Rottweiler,62.4,45.2,91,14187,9.12,4,1555,Apartamento pequeño,No,Muy frecuente,Latina
+124,Rottweiler,62.1,44.7,92,14167,9.14,3,1558,Jardín Amplio,Sí,Nada,Usera
+125,Rottweiler,62.6,45.8,90,14202,9.09,4,1551,Apartamento mediano,Sí,Poco frecuente,Villa de Vallecas
+126,Rottweiler,62.3,45.4,91,14179,9.11,3,1556,Finca,No,Nada,Ciudad Lineal
+127,Rottweiler,61.8,45.9,90,14154,9.15,4,1560,Jardín Amplio,Sí,Muy frecuente,Retiro
+128,Rottweiler,62.9,44.5,93,14209,9.08,3,1550,Apartamento pequeño,No,Frecuente,Centro
+129,Rottweiler,62.7,45.6,90,14194,9.1,4,1553,Jardín Amplio,Sí,Poco frecuente,Salamanca
+130,Pastor Alemán,61.0,31.0,98,13052,9.73,8,1341,Jardín Amplio,Sí,Nada,Chamartín
+131,Pastor Alemán,60.5,31.5,97,13063,9.72,9,1337,Apartamento mediano,No,Frecuente,Puente de Vallecas
+132,Pastor Alemán,61.2,30.8,99,13043,9.75,8,1342,Jardín Amplio,Sí,Poco frecuente,Moratalaz
+133,Pastor Alemán,61.4,31.2,98,13058,9.74,9,1340,Apartamento pequeño,No,Muy frecuente,Latina
+134,Pastor Alemán,61.1,30.7,99,13038,9.76,8,1343,Jardín Amplio,Sí,Nada,Usera
+135,Pastor Alemán,61.6,31.8,97,13073,9.71,9,1336,Apartamento mediano,Sí,Poco frecuente,Villa de Vallecas
+136,Pastor Alemán,61.3,31.4,98,13050,9.73,8,1341,Finca,No,Nada,Ciudad Lineal
+137,Pastor Alemán,60.8,31.9,97,13025,9.77,9,1345,Jardín Amplio,Sí,Muy frecuente,Retiro
+138,Pastor Alemán,61.9,30.5,100,13080,9.7,8,1335,Apartamento pequeño,No,Frecuente,Centro
+139,Pastor Alemán,61.7,31.6,97,13065,9.72,9,1338,Jardín Amplio,Sí,Poco frecuente,Salamanca
+140,Bulldog Francés,30.0,12.0,28,13073,9.0,0,1452,Apartamento pequeño,No,Nada,Chamartín
+141,Bulldog Francés,29.5,12.5,29,13084,8.99,1,1448,Jardín Amplio,Sí,Frecuente,Puente de Vallecas
+142,Bulldog Francés,30.2,11.8,30,13064,9.02,0,1453,Apartamento pequeño,No,Poco frecuente,Moratalaz
+143,Bulldog Francés,30.4,12.2,28,13079,9.01,1,1451,Jardín Amplio,Sí,Muy frecuente,Latina
+144,Bulldog Francés,30.1,11.7,30,13059,9.03,0,1454,Apartamento mediano,No,Nada,Usera
+145,Bulldog Francés,30.6,12.8,29,13094,8.98,1,1447,Jardín Amplio,Sí,Poco frecuente,Villa de Vallecas
+146,Bulldog Francés,30.3,12.4,28,13071,9.0,0,1452,Finca,No,Nada,Ciudad Lineal
+147,Bulldog Francés,29.8,12.9,29,13046,9.04,1,1456,Jardín Amplio,Sí,Muy frecuente,Retiro
+148,Bulldog Francés,30.9,11.5,30,13099,8.97,0,1446,Apartamento pequeño,No,Frecuente,Centro
+149,Bulldog Francés,30.7,12.6,29,13084,8.99,1,1449,Jardín Amplio,Sí,Poco frecuente,Salamanca
+150,Gran Danés,76.0,54.0,39,11035,6.96,4,1585,Jardín Amplio,No,Nada,Chamartín
+151,Gran Danés,75.5,54.5,38,11046,6.95,5,1581,Apartamento mediano,Sí,Frecuente,Puente de Vallecas
+152,Gran Danés,76.2,53.8,40,11026,6.98,4,1586,Jardín Amplio,No,Poco frecuente,Moratalaz
+153,Gran Danés,76.4,54.2,39,11041,6.97,5,1584,Apartamento pequeño,Sí,Muy frecuente,Latina
+154,Gran Danés,76.1,53.7,40,11021,6.99,4,1587,Jardín Amplio,No,Nada,Usera
+155,Gran Danés,76.6,54.8,38,11056,6.94,5,1580,Apartamento mediano,Sí,Poco frecuente,Villa de Vallecas
+156,Gran Danés,76.3,54.4,39,11033,6.96,4,1585,Finca,No,Nada,Ciudad Lineal
+157,Gran Danés,75.8,54.9,38,11008,7.0,5,1589,Jardín Amplio,Sí,Muy frecuente,Retiro
+158,Gran Danés,76.9,53.5,41,11063,6.93,4,1579,Apartamento pequeño,No,Frecuente,Centro
+159,Gran Danés,76.7,54.6,38,11048,6.95,5,1582,Jardín Amplio,Sí,Poco frecuente,Salamanca
+160,Bulldog,36.0,20.0,3,10358,6.29,5,1646,Jardín Amplio,Sí,Nada,Chamartín
+161,Bulldog,35.5,20.5,4,10369,6.28,6,1642,Apartamento mediano,No,Frecuente,Puente de Vallecas
+162,Bulldog,36.2,19.8,5,10349,6.31,5,1647,Jardín Amplio,Sí,Poco frecuente,Moratalaz
+163,Bulldog,36.4,20.2,3,10364,6.3,6,1645,Apartamento pequeño,No,Muy frecuente,Latina
+164,Bulldog,36.1,19.7,5,10344,6.32,5,1648,Jardín Amplio,Sí,Nada,Usera
+165,Bulldog,36.6,20.8,4,10379,6.27,6,1641,Apartamento mediano,No,Poco frecuente,Villa de Vallecas
+166,Bulldog,36.3,20.4,3,10356,6.29,5,1646,Finca,Sí,Nada,Ciudad Lineal
+167,Bulldog,35.8,20.9,4,10331,6.33,6,1650,Jardín Amplio,No,Muy frecuente,Retiro
+168,Bulldog,36.9,19.5,6,10386,6.26,5,1640,Apartamento pequeño,Sí,Frecuente,Centro
+169,Bulldog,36.7,20.6,3,10371,6.28,6,1643,Jardín Amplio,No,Poco frecuente,Salamanca
+170,Border Collie,51.0,17.0,100,16186,12.52,2,1293,Jardín Amplio,Sí,Nada,Chamartín
+171,Border Collie,50.5,17.5,99,16197,12.51,3,1289,Apartamento mediano,No,Frecuente,Puente de Vallecas
+172,Border Collie,51.2,16.8,100,16177,12.54,2,1294,Jardín Amplio,Sí,Poco frecuente,Moratalaz
+173,Border Collie,51.4,17.2,99,16192,12.53,3,1292,Apartamento pequeño,No,Muy frecuente,Latina
+174,Border Collie,51.1,16.7,100,16172,12.55,2,1295,Jardín Amplio,Sí,Nada,Usera
+175,Border Collie,51.6,17.8,99,16207,12.5,3,1288,Apartamento mediano,No,Poco frecuente,Villa de Vallecas
+176,Border Collie,51.3,17.4,100,16184,12.52,2,1293,Finca,Sí,Nada,Ciudad Lineal
+177,Border Collie,50.8,17.9,99,16159,12.56,3,1297,Jardín Amplio,No,Muy frecuente,Retiro
+178,Border Collie,51.9,16.5,100,16214,12.49,2,1287,Apartamento pequeño,Sí,Frecuente,Centro
+179,Border Collie,51.7,17.6,99,16199,12.51,3,1290,Jardín Amplio,No,Poco frecuente,Salamanca
+180,Husky Siberiano,55.0,22.0,45,16470,12.58,0,1309,Jardín Amplio,No,Frecuente,Chamartín
+181,Husky Siberiano,54.5,22.5,44,16481,12.57,1,1305,Apartamento mediano,Sí,Poco frecuente,Puente de Vallecas
+182,Husky Siberiano,55.2,21.8,46,16461,12.6,0,1310,Jardín Amplio,No,Nada,Moratalaz
+183,Husky Siberiano,55.4,22.2,45,16476,12.59,1,1308,Apartamento pequeño,Sí,Muy frecuente,Latina
+184,Husky Siberiano,55.1,21.7,46,16456,12.61,0,1311,Jardín Amplio,No,Frecuente,Usera
+185,Husky Siberiano,55.6,22.8,44,16491,12.56,1,1304,Apartamento mediano,Sí,Poco frecuente,Villa de Vallecas
+186,Husky Siberiano,55.3,22.4,45,16468,12.58,0,1309,Finca,No,Nada,Ciudad Lineal
+187,Husky Siberiano,54.8,22.9,44,16443,12.62,1,1313,Jardín Amplio,Sí,Muy frecuente,Retiro
+188,Husky Siberiano,55.9,21.5,47,16498,12.55,0,1303,Apartamento pequeño,No,Frecuente,Centro
+189,Husky Siberiano,55.7,22.6,44,16483,12.57,1,1306,Jardín Amplio,Sí,Poco frecuente,Salamanca
+190,Dachshund,24.0,11.0,37,15006,12.63,2,1188,Jardín Amplio,Sí,Nada,Chamartín
+191,Dachshund,23.5,11.5,36,15017,12.62,3,1184,Apartamento mediano,No,Frecuente,Puente de Vallecas
+192,Dachshund,24.2,10.8,38,14997,12.65,2,1189,Jardín Amplio,Sí,Poco frecuente,Moratalaz
+193,Dachshund,24.4,11.2,37,15012,12.64,3,1187,Apartamento pequeño,No,Muy frecuente,Latina
+194,Dachshund,24.1,10.7,38,14992,12.66,2,1190,Jardín Amplio,Sí,Nada,Usera
+195,Dachshund,24.6,11.8,36,15027,12.61,3,1183,Apartamento mediano,No,Poco frecuente,Villa de Vallecas
+196,Dachshund,24.3,11.4,37,15004,12.63,2,1188,Finca,Sí,Nada,Ciudad Lineal
+197,Dachshund,23.8,11.9,36,14979,12.67,3,1192,Jardín Amplio,No,Muy frecuente,Retiro
+198,Dachshund,24.9,10.5,39,15034,12.6,2,1182,Apartamento pequeño,Sí,Frecuente,Centro
+199,Dachshund,24.7,11.6,36,15019,12.62,3,1185,Jardín Amplio,No,Poco frecuente,Salamanca
+200,Schnauzer Miniatura,33.0,7.0,87,14489,11.81,2,1226,Apartamento mediano,Sí,Muy frecuente,Chamartín
+201,Schnauzer Miniatura,32.5,7.5,88,14500,11.8,3,1222,Jardín Amplio,No,Poco frecuente,Puente de Vallecas
+202,Schnauzer Miniatura,33.2,6.8,86,14480,11.83,2,1227,Apartamento pequeño,Sí,Nada,Moratalaz
+203,Schnauzer Miniatura,33.4,7.2,87,14495,11.82,3,1225,Jardín Amplio,No,Frecuente,Latina
+204,Schnauzer Miniatura,33.1,6.7,88,14470,11.84,2,1228,Apartamento mediano,Sí,Poco frecuente,Usera
+205,Schnauzer Miniatura,33.6,7.8,86,14505,11.79,3,1221,Jardín Amplio,No,Nada,Villa de Vallecas
+206,Schnauzer Miniatura,33.3,7.4,87,14482,11.81,2,1226,Finca,Sí,Muy frecuente,Ciudad Lineal
+207,Schnauzer Miniatura,32.8,7.9,86,14457,11.85,3,1230,Apartamento pequeño,No,Frecuente,Retiro
+208,Schnauzer Miniatura,33.9,6.5,88,14512,11.78,2,1220,Jardín Amplio,Sí,Poco frecuente,Centro
+209,Schnauzer Miniatura,33.7,7.6,86,14497,11.8,3,1223,Apartamento mediano,No,Nada,Salamanca
