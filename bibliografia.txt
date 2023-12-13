@@ -1,0 +1,5 @@
+#Fuentes CSVs
+info_distritos_madrid.csv: 
+    https://www.ine.es/ADRH/?config=config_ADRH_2021.json&showLayers=renta_media_hogar_279&level=5
+    https://www.infobae.com/espana/2023/11/01/madrid-capital-desigual-su-distrito-mas-rico-casi-triplica-los-ingresos-del-mas-pobre-pese-a-la-elevada-renta-per-capita/#:~:text=La%20diferencia%20de%20ingresos%20por,con%2019.150%20euros%20netos%20por
+    distrito-áreas_caninas: https://www.elmundo.es/madrid/2017/08/09/5984bb4222601dbc5b8b457c.html
