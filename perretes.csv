@@ -1,0 +1,211 @@
+Raza,Altura (cm),Peso (kg),Inteligencia (%),Vida promedio (años),Nº Enfermedades graves,Coste anual promedio (€),Hogar,Trucos,Actividad física del dueño,Distrito,Renta media/pers (€),Áreas caninas (m²)
+Chihuahua,13.0,2.5,16.0,16.2,2,1198,Apartamento pequeño,No,Frecuente,Carabanchel,12275,2794
+Chihuahua,13.5,2.2,16.0,16.8,1,1192,Jardín Amplio,No,Nada,Salamanca,25956,623
+Chihuahua,13.2,2.1,16.0,16.4,2,1195,Apartamento pequeño,No,Poco frecuente,Salamanca,25956,623
+Chihuahua,13.3,2.3,16.0,16.7,1,1190,Apartamento mediano,No,Muy frecuente,Chamartín,28233,165
+Chihuahua,12.8,2.4,16.0,16.1,2,1199,Jardín Amplio,Sí,Frecuente,Puente de Vallecas,10941,3843
+Chihuahua,13.1,2.2,16.0,16.5,1,1194,Finca,Sí,Poco frecuente,Villa de Vallecas,13605,1140
+Chihuahua,13.4,2.6,16.0,16.0,2,1202,Apartamento pequeño,Sí,Nada,Salamanca,25956,623
+Chihuahua,12.9,2.3,16.0,16.6,1,1193,Jardín Amplio,No,Nada,Puente de Vallecas,10941,3843
+Chihuahua,13.6,2.7,16.0,15.9,2,1205,Apartamento pequeño,No,Muy frecuente,Villaverde,11059,844
+Chihuahua,13.7,2.4,16.0,15.8,1,1208,Jardín Amplio,No,Frecuente,Ciudad Lineal,16890,614
+Springer Spaniel Inglés,50.0,20.0,86.0,12.54,4,1306,Jardín Amplio,Sí,Nada,Fuencarral-El Pardo,20671,1852
+Springer Spaniel Inglés,49.5,20.5,86.0,12.53,3,1300,Apartamento mediano,No,Frecuente,Ciudad Lineal,16890,614
+Springer Spaniel Inglés,50.2,19.8,86.0,12.56,4,1305,Jardín Amplio,Sí,Poco frecuente,Usera,10797,2971
+Springer Spaniel Inglés,50.4,20.2,86.0,12.55,3,1303,Apartamento pequeño,No,Muy frecuente,Villaverde,11059,844
+Springer Spaniel Inglés,50.1,19.7,86.0,12.57,4,1307,Jardín Amplio,Sí,Frecuente,Villa de Vallecas,13605,1140
+Springer Spaniel Inglés,50.6,20.8,86.0,12.52,3,1299,Apartamento mediano,Sí,Poco frecuente,Salamanca,25956,623
+Springer Spaniel Inglés,50.3,20.4,86.0,12.54,4,1304,Finca,No,Nada,Latina,13719,1802
+Springer Spaniel Inglés,49.8,20.9,86.0,12.58,3,1308,Jardín Amplio,No,Nada,Chamartín,28233,165
+Springer Spaniel Inglés,50.9,19.5,86.0,12.51,4,1298,Apartamento pequeño,Sí,Muy frecuente,Arganzuela,20103,1764
+Springer Spaniel Inglés,50.7,20.6,86.0,12.53,3,1301,Jardín Amplio,No,Frecuente,Moratalaz,15667,2838
+Caniche,41.0,25.0,99.0,11.95,2,1330,Jardín Amplio,Sí,Nada,Villa de Vallecas,13605,1140
+Caniche,40.5,25.5,99.0,11.94,1,1328,Apartamento mediano,No,Frecuente,Latina,13719,1802
+Caniche,41.2,24.8,99.0,11.97,2,1331,Jardín Amplio,Sí,Poco frecuente,Hortaleza,20500,3852
+Caniche,41.4,25.2,99.0,11.96,1,1329,Apartamento pequeño,No,Muy frecuente,Fuencarral-El Pardo,20671,1852
+Caniche,41.1,24.7,99.0,11.98,2,1332,Jardín Amplio,Sí,Frecuente,Usera,10797,2971
+Caniche,41.6,25.8,99.0,11.93,1,1327,Apartamento mediano,Sí,Poco frecuente,Villa de Vallecas,13605,1140
+Caniche,41.3,25.4,99.0,11.95,2,1333,Finca,No,Nada,Centro,19199,326
+Caniche,40.8,25.9,99.0,11.99,1,1334,Jardín Amplio,No,Nada,Puente de Vallecas,10941,3843
+Caniche,41.9,24.5,99.0,11.92,2,1326,Apartamento pequeño,Sí,Muy frecuente,Carabanchel,12275,2794
+Caniche,41.7,25.6,99.0,11.94,1,1335,Jardín Amplio,No,Frecuente,Latina,13719,1802
+Braco Alemán de pelo corto,61.0,28.0,84.0,11.46,1,1573,Jardín Amplio,Sí,Nada,Hortaleza,20500,3852
+Braco Alemán de pelo corto,60.5,28.5,84.0,11.45,2,1569,Apartamento mediano,No,Frecuente,Hortaleza,20500,3852
+Braco Alemán de pelo corto,61.2,27.8,84.0,11.48,1,1574,Jardín Amplio,Sí,Poco frecuente,Latina,13719,1802
+Braco Alemán de pelo corto,61.4,28.2,84.0,11.47,2,1572,Apartamento pequeño,No,Muy frecuente,Carabanchel,12275,2794
+Braco Alemán de pelo corto,61.1,27.7,84.0,11.49,1,1575,Jardín Amplio,Sí,Frecuente,Ciudad Lineal,16890,614
+Braco Alemán de pelo corto,61.6,28.8,84.0,11.44,2,1568,Apartamento mediano,Sí,Poco frecuente,Vicálvaro,13849,4410
+Braco Alemán de pelo corto,61.3,28.4,84.0,11.46,1,1573,Finca,No,Nada,Retiro,23925,6736
+Braco Alemán de pelo corto,60.8,28.9,84.0,11.5,2,1577,Jardín Amplio,No,Nada,Hortaleza,20500,3852
+Braco Alemán de pelo corto,61.9,27.5,84.0,11.43,1,1567,Apartamento pequeño,Sí,Muy frecuente,Villaverde,11059,844
+Braco Alemán de pelo corto,61.7,28.6,84.0,11.45,2,1570,Jardín Amplio,No,Frecuente,Puente de Vallecas,10941,3843
+Labrador Retriever,58.0,31.0,93.0,12.04,3,1323,Jardín Amplio,Sí,Nada,Arganzuela,20103,1764
+Labrador Retriever,57.5,31.5,93.0,12.03,4,1319,Apartamento mediano,No,Frecuente,Chamberí,25275,826
+Labrador Retriever,58.2,30.8,93.0,12.06,3,1324,Jardín Amplio,Sí,Poco frecuente,Usera,10797,2971
+Labrador Retriever,58.4,31.2,93.0,12.05,4,1322,Apartamento pequeño,No,Muy frecuente,Fuencarral-El Pardo,20671,1852
+Labrador Retriever,58.1,30.7,93.0,12.07,3,1325,Jardín Amplio,Sí,Frecuente,Latina,13719,1802
+Labrador Retriever,58.6,31.8,93.0,12.02,4,1318,Apartamento mediano,Sí,Poco frecuente,Centro,19199,326
+Labrador Retriever,58.3,31.4,93.0,12.04,3,1323,Finca,No,Nada,Moratalaz,15667,2838
+Labrador Retriever,57.8,31.9,93.0,12.08,4,1327,Jardín Amplio,No,Nada,Puente de Vallecas,10941,3843
+Labrador Retriever,58.9,30.5,93.0,12.01,3,1317,Apartamento pequeño,Sí,Muy frecuente,Tetuán,17026,1246
+Labrador Retriever,58.7,31.6,93.0,12.03,4,1320,Jardín Amplio,No,Frecuente,Fuencarral-El Pardo,20671,1852
+Bichón Maltés,23.0,2.0,25.0,12.25,1,1134,Jardín Amplio,No,Nada,San Blas-Canillejas,15115,609
+Bichón Maltés,22.5,2.5,25.0,12.24,2,1130,Apartamento pequeño,No,Frecuente,San Blas-Canillejas,15115,609
+Bichón Maltés,23.2,1.8,25.0,12.27,1,1135,Jardín Amplio,No,Poco frecuente,Tetuán,17026,1246
+Bichón Maltés,23.4,2.2,25.0,12.26,2,1133,Apartamento mediano,No,Muy frecuente,Chamartín,28233,165
+Bichón Maltés,23.1,1.7,25.0,12.28,1,1136,Jardín Amplio,No,Frecuente,Puente de Vallecas,10941,3843
+Bichón Maltés,23.6,2.8,25.0,12.23,2,1129,Apartamento mediano,Sí,Poco frecuente,Puente de Vallecas,10941,3843
+Bichón Maltés,23.3,2.4,25.0,12.25,1,1134,Finca,No,Nada,Chamberí,25275,826
+Bichón Maltés,22.8,2.9,25.0,12.29,2,1138,Jardín Amplio,No,Nada,Centro,19199,326
+Bichón Maltés,23.9,1.5,25.0,12.22,1,1128,Apartamento pequeño,No,Muy frecuente,Carabanchel,12275,2794
+Bichón Maltés,23.7,2.6,25.0,12.24,2,1131,Jardín Amplio,No,Frecuente,Moncloa-Aravaca,24659,2606
+Pomerania,24.0,2.0,77.0,9.67,1,1223,Apartamento pequeño,No,Nada,Vicálvaro,13849,4410
+Pomerania,23.5,2.5,77.0,9.66,2,1219,Jardín Amplio,No,Frecuente,San Blas-Canillejas,15115,609
+Pomerania,24.2,1.8,77.0,9.69,1,1224,Apartamento pequeño,No,Poco frecuente,Puente de Vallecas,10941,3843
+Pomerania,24.4,2.2,77.0,9.68,2,1222,Jardín Amplio,No,Muy frecuente,Tetuán,17026,1246
+Pomerania,24.1,1.7,77.0,9.7,1,1225,Apartamento mediano,Sí,Poco frecuente,Carabanchel,12275,2794
+Pomerania,24.6,2.8,77.0,9.65,2,1218,Jardín Amplio,No,Nada,Moncloa-Aravaca,24659,2606
+Pomerania,24.3,2.4,77.0,9.67,1,1223,Finca,No,Nada,Moncloa-Aravaca,24659,2606
+Pomerania,23.8,2.9,77.0,9.71,2,1227,Jardín Amplio,No,Muy frecuente,Centro,19199,326
+Pomerania,24.9,1.5,77.0,9.64,1,1217,Apartamento pequeño,Sí,Frecuente,Latina,13719,1802
+Pomerania,24.7,2.6,77.0,9.66,2,1220,Jardín Amplio,No,Poco frecuente,Moratalaz,15667,2838
+Golden Retriever,58.0,27.0,97.0,12.04,4,1334,Jardín Amplio,Sí,Nada,Retiro,23925,6736
+Golden Retriever,57.5,27.5,97.0,12.03,3,1330,Apartamento mediano,No,Frecuente,Carabanchel,12275,2794
+Golden Retriever,58.2,26.8,97.0,12.06,4,1335,Jardín Amplio,Sí,Poco frecuente,Moncloa-Aravaca,24659,2606
+Golden Retriever,58.4,27.2,97.0,12.05,3,1333,Apartamento pequeño,No,Muy frecuente,San Blas-Canillejas,15115,609
+Golden Retriever,58.1,26.7,97.0,12.07,4,1336,Jardín Amplio,Sí,Frecuente,Puente de Vallecas,10941,3843
+Golden Retriever,58.6,27.8,97.0,12.02,3,1329,Apartamento mediano,Sí,Poco frecuente,Chamartín,28233,165
+Golden Retriever,58.3,27.4,97.0,12.04,4,1334,Finca,No,Nada,Latina,13719,1802
+Golden Retriever,57.8,27.9,97.0,12.08,3,1338,Jardín Amplio,No,Nada,Chamberí,25275,826
+Golden Retriever,58.9,26.5,97.0,12.01,4,1328,Apartamento pequeño,Sí,Muy frecuente,Chamberí,25275,826
+Golden Retriever,58.7,27.6,97.0,12.03,3,1331,Jardín Amplio,No,Frecuente,Vicálvaro,13849,4410
+Beagle,36.0,12.0,9.0,12.3,1,1179,Jardín Amplio,No,Nada,Hortaleza,20500,3852
+Beagle,35.5,12.5,9.0,12.29,2,1175,Apartamento mediano,No,Frecuente,Centro,19199,326
+Beagle,36.2,11.8,9.0,12.32,1,1180,Jardín Amplio,No,Poco frecuente,Tetuán,17026,1246
+Beagle,36.4,12.2,9.0,12.31,2,1178,Apartamento pequeño,Sí,Muy frecuente,Vicálvaro,13849,4410
+Beagle,36.1,11.7,9.0,12.33,1,1181,Jardín Amplio,No,Poco frecuente,Latina,13719,1802
+Beagle,36.6,12.8,9.0,12.28,2,1174,Apartamento mediano,No,Nada,Puente de Vallecas,10941,3843
+Beagle,36.3,12.4,9.0,12.3,1,1179,Finca,No,Nada,Barajas,19482,5810
+Beagle,35.8,12.9,9.0,12.34,2,1183,Jardín Amplio,No,Muy frecuente,Latina,13719,1802
+Beagle,36.9,11.5,9.0,12.27,1,1173,Apartamento pequeño,No,Frecuente,Centro,19199,326
+Beagle,36.7,12.6,9.0,12.29,2,1176,Jardín Amplio,No,Poco frecuente,Retiro,23925,6736
+Setter Inglés,62.0,43.0,56.0,11.57,2,1311,Jardín Amplio,No,Nada,Retiro,23925,6736
+Setter Inglés,61.5,43.5,56.0,11.56,3,1307,Apartamento mediano,Sí,Frecuente,Fuencarral-El Pardo,20671,1852
+Setter Inglés,62.2,42.8,56.0,11.59,2,1312,Jardín Amplio,No,Poco frecuente,Chamartín,28233,165
+Setter Inglés,62.4,43.2,56.0,11.58,3,1310,Apartamento pequeño,Sí,Muy frecuente,Moncloa-Aravaca,24659,2606
+Setter Inglés,62.1,42.7,56.0,11.6,2,1313,Jardín Amplio,No,Nada,Carabanchel,12275,2794
+Setter Inglés,62.6,43.8,56.0,11.55,3,1306,Apartamento mediano,No,Poco frecuente,Tetuán,17026,1246
+Setter Inglés,62.3,43.4,56.0,11.57,2,1311,Finca,No,Nada,Barajas,19482,5810
+Setter Inglés,61.8,43.9,56.0,11.61,3,1315,Jardín Amplio,No,Muy frecuente,San Blas-Canillejas,15115,609
+Setter Inglés,62.9,42.5,56.0,11.54,2,1305,Apartamento pequeño,No,Frecuente,Salamanca,25956,623
+Setter Inglés,62.7,43.6,56.0,11.56,3,1308,Jardín Amplio,Sí,Poco frecuente,Salamanca,25956,623
+Doberman Pinscher,66.0,34.0,95.0,10.33,4,1333,Jardín Amplio,Sí,Nada,Arganzuela,20103,1764
+Doberman Pinscher,65.5,34.5,95.0,10.32,5,1329,Apartamento mediano,No,Frecuente,Villaverde,11059,844
+Doberman Pinscher,66.2,33.8,95.0,10.35,4,1334,Jardín Amplio,Sí,Poco frecuente,Chamberí,25275,826
+Doberman Pinscher,66.4,34.2,95.0,10.34,5,1332,Apartamento pequeño,No,Muy frecuente,Ciudad Lineal,16890,614
+Doberman Pinscher,66.1,33.7,95.0,10.36,4,1335,Jardín Amplio,Sí,Nada,Ciudad Lineal,16890,614
+Doberman Pinscher,66.6,34.8,95.0,10.31,5,1328,Apartamento mediano,Sí,Poco frecuente,Latina,13719,1802
+Doberman Pinscher,66.3,34.4,95.0,10.33,4,1333,Finca,No,Nada,San Blas-Canillejas,15115,609
+Doberman Pinscher,65.8,34.9,95.0,10.37,5,1337,Jardín Amplio,No,Muy frecuente,Puente de Vallecas,10941,3843
+Doberman Pinscher,66.9,33.5,95.0,10.3,4,1327,Apartamento pequeño,Sí,Frecuente,Puente de Vallecas,10941,3843
+Doberman Pinscher,66.7,34.6,95.0,10.32,5,1330,Jardín Amplio,Sí,Poco frecuente,Carabanchel,12275,2794
+Cavalier King Charles Spaniel,32.0,7.0,48.0,11.29,2,1238,Apartamento pequeño,No,Nada,Latina,13719,1802
+Cavalier King Charles Spaniel,31.5,7.5,48.0,11.28,3,1234,Jardín Amplio,No,Frecuente,Tetuán,17026,1246
+Cavalier King Charles Spaniel,32.2,6.8,48.0,11.31,2,1239,Apartamento pequeño,Sí,Poco frecuente,Latina,13719,1802
+Cavalier King Charles Spaniel,32.4,7.2,48.0,11.3,3,1237,Jardín Amplio,No,Muy frecuente,Chamartín,28233,165
+Cavalier King Charles Spaniel,32.1,6.7,48.0,11.32,2,1240,Apartamento mediano,Sí,Poco frecuente,Moncloa-Aravaca,24659,2606
+Cavalier King Charles Spaniel,32.6,7.8,48.0,11.27,3,1233,Jardín Amplio,Sí,Nada,Hortaleza,20500,3852
+Cavalier King Charles Spaniel,32.3,7.4,48.0,11.29,2,1238,Finca,No,Nada,Usera,10797,2971
+Cavalier King Charles Spaniel,31.8,7.9,48.0,11.33,3,1242,Jardín Amplio,No,Muy frecuente,Arganzuela,20103,1764
+Cavalier King Charles Spaniel,32.9,6.5,48.0,11.26,2,1232,Apartamento pequeño,No,Frecuente,Tetuán,17026,1246
+Cavalier King Charles Spaniel,32.7,7.6,48.0,11.28,3,1235,Jardín Amplio,No,Poco frecuente,Salamanca,25956,623
+Rottweiler,62.0,45.0,91.0,9.11,3,1556,Jardín Amplio,Sí,Nada,Fuencarral-El Pardo,20671,1852
+Rottweiler,61.5,45.5,91.0,9.1,4,1552,Apartamento mediano,No,Frecuente,Fuencarral-El Pardo,20671,1852
+Rottweiler,62.2,44.8,91.0,9.13,3,1557,Jardín Amplio,Sí,Poco frecuente,Centro,19199,326
+Rottweiler,62.4,45.2,91.0,9.12,4,1555,Apartamento pequeño,No,Muy frecuente,Ciudad Lineal,16890,614
+Rottweiler,62.1,44.7,91.0,9.14,3,1558,Jardín Amplio,Sí,Nada,Puente de Vallecas,10941,3843
+Rottweiler,62.6,45.8,91.0,9.09,4,1551,Apartamento mediano,Sí,Poco frecuente,Barajas,19482,5810
+Rottweiler,62.3,45.4,91.0,9.11,3,1556,Finca,No,Nada,Arganzuela,20103,1764
+Rottweiler,61.8,45.9,91.0,9.15,4,1560,Jardín Amplio,Sí,Muy frecuente,Chamartín,28233,165
+Rottweiler,62.9,44.5,91.0,9.08,3,1550,Apartamento pequeño,No,Frecuente,Chamberí,25275,826
+Rottweiler,62.7,45.6,91.0,9.1,4,1553,Jardín Amplio,Sí,Poco frecuente,Carabanchel,12275,2794
+Pastor Alemán,61.0,31.0,98.0,9.73,8,1341,Jardín Amplio,Sí,Nada,Usera,10797,2971
+Pastor Alemán,60.5,31.5,98.0,9.72,9,1337,Apartamento mediano,No,Frecuente,Chamberí,25275,826
+Pastor Alemán,61.2,30.8,98.0,9.75,8,1342,Jardín Amplio,Sí,Poco frecuente,Chamberí,25275,826
+Pastor Alemán,61.4,31.2,98.0,9.74,9,1340,Apartamento pequeño,No,Muy frecuente,Moncloa-Aravaca,24659,2606
+Pastor Alemán,61.1,30.7,98.0,9.76,8,1343,Jardín Amplio,Sí,Nada,Fuencarral-El Pardo,20671,1852
+Pastor Alemán,61.6,31.8,98.0,9.71,9,1336,Apartamento mediano,Sí,Poco frecuente,Chamartín,28233,165
+Pastor Alemán,61.3,31.4,98.0,9.73,8,1341,Finca,No,Nada,Hortaleza,20500,3852
+Pastor Alemán,60.8,31.9,98.0,9.77,9,1345,Jardín Amplio,Sí,Muy frecuente,Retiro,23925,6736
+Pastor Alemán,61.9,30.5,98.0,9.7,8,1335,Apartamento pequeño,No,Frecuente,Arganzuela,20103,1764
+Pastor Alemán,61.7,31.6,98.0,9.72,9,1338,Jardín Amplio,Sí,Poco frecuente,Puente de Vallecas,10941,3843
+Bulldog Francés,30.0,12.0,28.0,9.0,0,1452,Apartamento pequeño,No,Nada,Carabanchel,12275,2794
+Bulldog Francés,29.5,12.5,28.0,8.99,1,1448,Jardín Amplio,No,Frecuente,Fuencarral-El Pardo,20671,1852
+Bulldog Francés,30.2,11.8,28.0,9.02,0,1453,Apartamento pequeño,No,Poco frecuente,Moratalaz,15667,2838
+Bulldog Francés,30.4,12.2,28.0,9.01,1,1451,Jardín Amplio,No,Muy frecuente,Tetuán,17026,1246
+Bulldog Francés,30.1,11.7,28.0,9.03,0,1454,Apartamento mediano,No,Nada,Tetuán,17026,1246
+Bulldog Francés,30.6,12.8,28.0,8.98,1,1447,Jardín Amplio,No,Poco frecuente,Puente de Vallecas,10941,3843
+Bulldog Francés,30.3,12.4,28.0,9.0,0,1452,Finca,No,Nada,Chamberí,25275,826
+Bulldog Francés,29.8,12.9,28.0,9.04,1,1456,Jardín Amplio,No,Muy frecuente,Fuencarral-El Pardo,20671,1852
+Bulldog Francés,30.9,11.5,28.0,8.97,0,1446,Apartamento pequeño,No,Frecuente,Centro,19199,326
+Bulldog Francés,30.7,12.6,28.0,8.99,1,1449,Jardín Amplio,No,Poco frecuente,San Blas-Canillejas,15115,609
+Gran Danés,76.0,54.0,39.0,6.96,4,1585,Jardín Amplio,No,Nada,Ciudad Lineal,16890,614
+Gran Danés,75.5,54.5,39.0,6.95,5,1581,Apartamento mediano,No,Frecuente,Carabanchel,12275,2794
+Gran Danés,76.2,53.8,39.0,6.98,4,1586,Jardín Amplio,No,Poco frecuente,Moncloa-Aravaca,24659,2606
+Gran Danés,76.4,54.2,39.0,6.97,5,1584,Apartamento pequeño,No,Muy frecuente,Villa de Vallecas,13605,1140
+Gran Danés,76.1,53.7,39.0,6.99,4,1587,Jardín Amplio,No,Nada,Carabanchel,12275,2794
+Gran Danés,76.6,54.8,39.0,6.94,5,1580,Apartamento mediano,Sí,Poco frecuente,Chamartín,28233,165
+Gran Danés,76.3,54.4,39.0,6.96,4,1585,Finca,No,Nada,Usera,10797,2971
+Gran Danés,75.8,54.9,39.0,7.0,5,1589,Jardín Amplio,Sí,Muy frecuente,Ciudad Lineal,16890,614
+Gran Danés,76.9,53.5,39.0,6.93,4,1579,Apartamento pequeño,No,Frecuente,Salamanca,25956,623
+Gran Danés,76.7,54.6,39.0,6.95,5,1582,Jardín Amplio,No,Poco frecuente,Villaverde,11059,844
+Bulldog,36.0,20.0,3.0,6.29,5,1646,Jardín Amplio,No,Nada,Puente de Vallecas,10941,3843
+Bulldog,35.5,20.5,3.0,6.28,6,1642,Apartamento mediano,No,Frecuente,Carabanchel,12275,2794
+Bulldog,36.2,19.8,3.0,6.31,5,1647,Jardín Amplio,No,Poco frecuente,Fuencarral-El Pardo,20671,1852
+Bulldog,36.4,20.2,3.0,6.3,6,1645,Apartamento pequeño,No,Muy frecuente,Fuencarral-El Pardo,20671,1852
+Bulldog,36.1,19.7,3.0,6.32,5,1648,Jardín Amplio,No,Nada,Villaverde,11059,844
+Bulldog,36.6,20.8,3.0,6.27,6,1641,Apartamento mediano,No,Poco frecuente,Ciudad Lineal,16890,614
+Bulldog,36.3,20.4,3.0,6.29,5,1646,Finca,Sí,Nada,Carabanchel,12275,2794
+Bulldog,35.8,20.9,3.0,6.33,6,1650,Jardín Amplio,No,Muy frecuente,San Blas-Canillejas,15115,609
+Bulldog,36.9,19.5,3.0,6.26,5,1640,Apartamento pequeño,No,Frecuente,Fuencarral-El Pardo,20671,1852
+Bulldog,36.7,20.6,3.0,6.28,6,1643,Jardín Amplio,No,Poco frecuente,Villaverde,11059,844
+Border Collie,51.0,17.0,100.0,12.52,2,1293,Jardín Amplio,Sí,Nada,Arganzuela,20103,1764
+Border Collie,50.5,17.5,99.0,12.51,3,1289,Apartamento mediano,No,Frecuente,Hortaleza,20500,3852
+Border Collie,51.2,16.8,100.0,12.54,2,1294,Jardín Amplio,Sí,Poco frecuente,Centro,19199,326
+Border Collie,51.4,17.2,99.0,12.53,3,1292,Apartamento pequeño,No,Muy frecuente,San Blas-Canillejas,15115,609
+Border Collie,51.1,16.7,100.0,12.55,2,1295,Jardín Amplio,Sí,Nada,Barajas,19482,5810
+Border Collie,51.6,17.8,99.0,12.5,3,1288,Apartamento mediano,No,Poco frecuente,Villaverde,11059,844
+Border Collie,51.3,17.4,100.0,12.52,2,1293,Finca,Sí,Nada,Hortaleza,20500,3852
+Border Collie,50.8,17.9,99.0,12.56,3,1297,Jardín Amplio,No,Muy frecuente,Puente de Vallecas,10941,3843
+Border Collie,51.9,16.5,100.0,12.49,2,1287,Apartamento pequeño,Sí,Frecuente,Ciudad Lineal,16890,614
+Border Collie,51.7,17.6,99.0,12.51,3,1290,Jardín Amplio,No,Poco frecuente,Ciudad Lineal,16890,614
+Husky Siberiano,55.0,22.0,45.0,12.58,0,1309,Jardín Amplio,No,Frecuente,San Blas-Canillejas,15115,609
+Husky Siberiano,54.5,22.5,45.0,12.57,1,1305,Apartamento mediano,No,Poco frecuente,Hortaleza,20500,3852
+Husky Siberiano,55.2,21.8,45.0,12.6,0,1310,Jardín Amplio,No,Nada,Centro,19199,326
+Husky Siberiano,55.4,22.2,45.0,12.59,1,1308,Apartamento pequeño,Sí,Muy frecuente,Salamanca,25956,623
+Husky Siberiano,55.1,21.7,45.0,12.61,0,1311,Jardín Amplio,No,Frecuente,Villa de Vallecas,13605,1140
+Husky Siberiano,55.6,22.8,45.0,12.56,1,1304,Apartamento mediano,No,Poco frecuente,Moncloa-Aravaca,24659,2606
+Husky Siberiano,55.3,22.4,45.0,12.58,0,1309,Finca,No,Nada,Carabanchel,12275,2794
+Husky Siberiano,54.8,22.9,45.0,12.62,1,1313,Jardín Amplio,Sí,Muy frecuente,Centro,19199,326
+Husky Siberiano,55.9,21.5,45.0,12.55,0,1303,Apartamento pequeño,No,Frecuente,Usera,10797,2971
+Husky Siberiano,55.7,22.6,45.0,12.57,1,1306,Jardín Amplio,No,Poco frecuente,Ciudad Lineal,16890,614
+Dachshund,24.0,11.0,37.0,12.63,2,1188,Jardín Amplio,No,Nada,Moncloa-Aravaca,24659,2606
+Dachshund,23.5,11.5,37.0,12.62,3,1184,Apartamento mediano,No,Frecuente,Puente de Vallecas,10941,3843
+Dachshund,24.2,10.8,37.0,12.65,2,1189,Jardín Amplio,No,Poco frecuente,San Blas-Canillejas,15115,609
+Dachshund,24.4,11.2,37.0,12.64,3,1187,Apartamento pequeño,No,Muy frecuente,Salamanca,25956,623
+Dachshund,24.1,10.7,37.0,12.66,2,1190,Jardín Amplio,No,Nada,Latina,13719,1802
+Dachshund,24.6,11.8,37.0,12.61,3,1183,Apartamento mediano,No,Poco frecuente,Hortaleza,20500,3852
+Dachshund,24.3,11.4,37.0,12.63,2,1188,Finca,Sí,Nada,Latina,13719,1802
+Dachshund,23.8,11.9,37.0,12.67,3,1192,Jardín Amplio,No,Muy frecuente,Villa de Vallecas,13605,1140
+Dachshund,24.9,10.5,37.0,12.6,2,1182,Apartamento pequeño,Sí,Frecuente,Fuencarral-El Pardo,20671,1852
+Dachshund,24.7,11.6,37.0,12.62,3,1185,Jardín Amplio,No,Poco frecuente,Villaverde,11059,844
+Schnauzer Miniatura,33.0,7.0,87.0,11.81,2,1226,Apartamento mediano,Sí,Muy frecuente,Usera,10797,2971
+Schnauzer Miniatura,32.5,7.5,87.0,11.8,3,1222,Jardín Amplio,No,Poco frecuente,Moratalaz,15667,2838
+Schnauzer Miniatura,33.2,6.8,87.0,11.83,2,1227,Apartamento pequeño,Sí,Nada,Retiro,23925,6736
+Schnauzer Miniatura,33.4,7.2,87.0,11.82,3,1225,Jardín Amplio,No,Frecuente,Arganzuela,20103,1764
+Schnauzer Miniatura,33.1,6.7,87.0,11.84,2,1228,Apartamento mediano,Sí,Poco frecuente,Chamberí,25275,826
+Schnauzer Miniatura,33.6,7.8,87.0,11.79,3,1221,Jardín Amplio,No,Nada,Centro,19199,326
+Schnauzer Miniatura,33.3,7.4,87.0,11.81,2,1226,Finca,Sí,Muy frecuente,Hortaleza,20500,3852
+Schnauzer Miniatura,32.8,7.9,87.0,11.85,3,1230,Apartamento pequeño,No,Frecuente,Ciudad Lineal,16890,614
+Schnauzer Miniatura,33.9,6.5,87.0,11.78,2,1220,Jardín Amplio,Sí,Poco frecuente,Fuencarral-El Pardo,20671,1852
+Schnauzer Miniatura,33.7,7.6,87.0,11.8,3,1223,Apartamento mediano,No,Nada,Usera,10797,2971
