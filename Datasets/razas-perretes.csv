@@ -1,44 +1,44 @@
-Dog breed,size_category_enc,longevity,int_cat_enc_fixed,size_cat_enc,lon_enc,int_cat_enc
-Brittany,1.0,12.92,2,0.5,0.5802966777734689,1.0
-Cairn Terrier,0.0,13.84,1,0.0,0.657705137586372,0.5
-English Cocker Spaniel,1.0,11.66,2,0.5,0.47428074368188455,1.0
-Cocker Spaniel,0.0,12.50,2,0.0,0.5449580330762743,1.0
-Shetland Sheepdog,0.0,12.53,2,0.0,0.5474822219832166,1.0
-Siberian Husky,1.0,12.58,1,0.5,0.5516892034947875,0.5
-Lhasa Apso,0.0,13.92,0,0.0,0.6644363080048853,0.0
-Miniature Schnauzer,0.0,11.81,2,0.0,0.4869016882165971,1.0
-Chihuahua,0.0,16.50,0,0.0,0.8815165540019393,0.0
-English Springer Spaniel,1.0,12.54,2,0.5,0.5483236182855308,1.0
-German Shorthaired Pointer,2.0,11.46,2,1.0,0.4574528176356014,1.0
-Pointer,2.0,12.42,1,1.0,0.538226862657761,0.5
-Tibetan Spaniel,0.0,14.42,1,0.0,0.7065061231205935,0.5
-Labrador Retriever,1.0,12.04,2,0.5,0.5062538031698226,1.0
-Maltese,0.0,12.25,0,0.0,0.5239231255184201,0.0
-Shih Tzu,0.0,13.20,0,0.0,0.6038557742382656,0.0
-Irish Setter,2.0,11.63,1,1.0,0.47175655477494216,0.5
-Golden Retriever,1.0,12.04,2,0.5,0.5062538031698226,1.0
-Chesapeake Bay Retriever,2.0,9.48,1,1.0,0.29085634977739716,0.5
-Tibetan Terrier,0.0,12.31,0,0.0,0.5289715033323051,0.0
-Gordon Setter,2.0,11.10,1,1.0,0.4271625507522915,0.5
-Pug,1.0,11.00,0,0.5,0.4187485877291498,0.0
-Norfolk Terrier,0.0,13.07,0,0.0,0.5929176223081815,0.0
-English Toy Spaniel,0.0,10.10,1,0.0,0.34302292052087513,0.5
-Cavalier King Charles Spaniel,0.0,11.29,1,0.0,0.44314908049626045,0.5
-Basenji,1.0,13.58,0,0.5,0.6358288337262038,0.0
-Staffordshire Bull Terrier,1.0,12.05,1,0.5,0.507095199472137,0.5
-Pembroke Welsh Corgi,0.0,12.25,2,0.0,0.5239231255184201,1.0
-Clumber Spaniel,1.0,10.00,1,0.5,0.33460895749773356,0.5
-Dandie Dinmont Terrier,0.0,12.17,0,0.0,0.5171919550999068,0.0
-Giant Schnauzer,2.0,10.00,1,1.0,0.33460895749773356,0.5
-Scottish Terrier,0.0,10.69,0,0.0,0.3926653023574108,0.0
-Kerry Blue Terrier,1.0,9.40,1,0.5,0.2841251793588838,0.5
-Afghan Hound,2.0,11.92,0,1.0,0.4961570475420528,0.0
-Newfoundland,2.0,9.32,1,1.0,0.2773940089403706,0.5
-Rhodesian Ridgeback,2.0,9.10,1,1.0,0.2588832902894589,0.5
-Borzoi,2.0,9.08,0,1.0,0.25720049768483066,0.0
-Bull Terrier,1.0,10.21,0,0.5,0.3522782798463311,0.0
-Alaskan Malamute,2.0,10.67,1,1.0,0.3909825097527825,0.5
-Bloodhound,2.0,6.75,0,1.0,0.06115515924563075,0.0
-Bullmastiff,2.0,7.57,0,1.0,0.13014965603539208,0.0
-Mastiff,2.0,6.50,0,1.0,0.040120251687776665,0.0
-Saint Bernard,2.0,7.78,0,1.0,0.1478189783839895,0.0
+Dog breed,size_category_enc,longevity,int_cat_enc_fixed,size category,intelligence category,int_cat,size_cat_enc,lon_enc,int_cat_enc
+Brittany,1.0,12.92,2,medium,Excellent,4.0,0.5,0.5802966777734689,1.0
+Cairn Terrier,0.0,13.84,1,small,Above average,3.0,0.0,0.657705137586372,0.5
+English Cocker Spaniel,1.0,11.66,2,medium,Excellent,4.0,0.5,0.47428074368188455,1.0
+Cocker Spaniel,0.0,12.50,2,small,Excellent,4.0,0.0,0.5449580330762743,1.0
+Shetland Sheepdog,0.0,12.53,2,small,Brightest,5.0,0.0,0.5474822219832166,1.0
+Siberian Husky,1.0,12.58,1,medium,Average,2.0,0.5,0.5516892034947875,0.5
+Lhasa Apso,0.0,13.92,0,small,Fair,1.0,0.0,0.6644363080048853,0.0
+Miniature Schnauzer,0.0,11.81,2,small,Excellent,4.0,0.0,0.4869016882165971,1.0
+Chihuahua,0.0,16.50,0,small,Fair,1.0,0.0,0.8815165540019393,0.0
+English Springer Spaniel,1.0,12.54,2,medium,Excellent,4.0,0.5,0.5483236182855308,1.0
+German Shorthaired Pointer,2.0,11.46,2,large,Excellent,4.0,1.0,0.4574528176356014,1.0
+Pointer,2.0,12.42,1,large,Average,2.0,1.0,0.538226862657761,0.5
+Tibetan Spaniel,0.0,14.42,1,small,Average,2.0,0.0,0.7065061231205935,0.5
+Labrador Retriever,1.0,12.04,2,medium,Brightest,5.0,0.5,0.5062538031698226,1.0
+Maltese,0.0,12.25,0,small,Fair,1.0,0.0,0.5239231255184201,0.0
+Shih Tzu,0.0,13.20,0,small,Lowest,0.0,0.0,0.6038557742382656,0.0
+Irish Setter,2.0,11.63,1,large,Above average,3.0,1.0,0.47175655477494216,0.5
+Golden Retriever,1.0,12.04,2,medium,Brightest,5.0,0.5,0.5062538031698226,1.0
+Chesapeake Bay Retriever,2.0,9.48,1,large,Above average,3.0,1.0,0.29085634977739716,0.5
+Tibetan Terrier,0.0,12.31,0,small,Fair,1.0,0.0,0.5289715033323051,0.0
+Gordon Setter,2.0,11.10,1,large,Above average,3.0,1.0,0.4271625507522915,0.5
+Pug,1.0,11.00,0,medium,Fair,1.0,0.5,0.4187485877291498,0.0
+Norfolk Terrier,0.0,13.07,0,small,Fair,1.0,0.0,0.5929176223081815,0.0
+English Toy Spaniel,0.0,10.10,1,small,Average,2.0,0.0,0.34302292052087513,0.5
+Cavalier King Charles Spaniel,0.0,11.29,1,small,Average,2.0,0.0,0.44314908049626045,0.5
+Basenji,1.0,13.58,0,medium,Lowest,0.0,0.5,0.6358288337262038,0.0
+Staffordshire Bull Terrier,1.0,12.05,1,medium,Average,2.0,0.5,0.507095199472137,0.5
+Pembroke Welsh Corgi,0.0,12.25,2,small,Excellent,4.0,0.0,0.5239231255184201,1.0
+Clumber Spaniel,1.0,10.00,1,medium,Above average,3.0,0.5,0.33460895749773356,0.5
+Dandie Dinmont Terrier,0.0,12.17,0,small,Fair,1.0,0.0,0.5171919550999068,0.0
+Giant Schnauzer,2.0,10.00,1,large,Above average,3.0,1.0,0.33460895749773356,0.5
+Scottish Terrier,0.0,10.69,0,small,Fair,1.0,0.0,0.3926653023574108,0.0
+Kerry Blue Terrier,1.0,9.40,1,medium,Above average,3.0,0.5,0.2841251793588838,0.5
+Afghan Hound,2.0,11.92,0,large,Lowest,0.0,1.0,0.4961570475420528,0.0
+Newfoundland,2.0,9.32,1,large,Above average,3.0,1.0,0.2773940089403706,0.5
+Rhodesian Ridgeback,2.0,9.10,1,large,Average,2.0,1.0,0.2588832902894589,0.5
+Borzoi,2.0,9.08,0,large,Lowest,0.0,1.0,0.25720049768483066,0.0
+Bull Terrier,1.0,10.21,0,medium,Fair,1.0,0.5,0.3522782798463311,0.0
+Alaskan Malamute,2.0,10.67,1,large,Average,2.0,1.0,0.3909825097527825,0.5
+Bloodhound,2.0,6.75,0,large,Lowest,0.0,1.0,0.06115515924563075,0.0
+Bullmastiff,2.0,7.57,0,large,Fair,1.0,1.0,0.13014965603539208,0.0
+Mastiff,2.0,6.50,0,large,Lowest,0.0,1.0,0.040120251687776665,0.0
+Saint Bernard,2.0,7.78,0,large,Fair,1.0,1.0,0.1478189783839895,0.0
