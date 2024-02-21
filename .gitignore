@@ -1,0 +1,4 @@
+*.html
+requirements.txt
+.DS_Store
+test.py
